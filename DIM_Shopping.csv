@@ -1,0 +1,2001 @@
+Id;Item_ID;Product;Quantity;Price
+1;I00001;Samsung Galaxy A36;2;19791
+2;I00002;Samsung Galaxy Tab S6 Lite;1;179901
+3;I00003;Soundbar Samsung com 2.1 canais, Dolby Digital;2;10720
+4;I00004;Carregador Turbo USB-C 30W;4;499
+5;I00005;Carregador Turbo Tipo-C 50w;3;539
+6;I00006;Fone de Ouvido Profissional EDIFIER WH950NB;2;8990
+7;I00007;Samsung Galaxy Tab S6 Lite;3;179901
+8;I00008;ACER Notebook Gamer Nitro;2;46040
+9;I00009;SSD Crucial 1TB NVMe M.2;1;4490
+10;I00010;Projetor Smart Epson EpiqVision, FULL HD;3;304999
+11;I00011;"Smart TV LED 32""Samsung LED Tizen TV";4;10790
+12;I00012;Soundbar Tomate MTS-2017, Bivolt;2;7699
+13;I00013;ACER Notebook Gamer Nitro;4;46040
+14;I00014;"Smart TV LED 32""Samsung LED Tizen TV";4;10790
+15;I00015;Fone de ouvido Sem Fio QCY T27;2;12986
+16;I00016;Película para iPhone 14Pro Anti impacto;2;518
+17;I00017;"Monitor UHD Samsung 32""";2;162657
+18;I00018;Carregador Turbo Tipo-C 50w;2;539
+19;I00019;Fone de Ouvido Sem Fio TWS, PHILIPS;2;12491
+20;I00020;Carregador Turbo USB-C 30W;3;499
+21;I00021;"Monitor UHD Samsung 32""";2;162657
+22;I00022;Soundbar Samsung com 2.1 canais, Dolby Digital;1;10720
+23;I00023;Smart TV 32” Philco LED Roku TV;2;9490
+24;I00024;Smart TV 32” Philco LED Roku TV;1;9490
+25;I00025;Película para iPhone 14Pro Anti impacto;2;518
+26;I00026;"Monitor UHD Samsung 32""";4;162657
+27;I00027;Projetor Smart Epson EpiqVision, FULL HD;1;304999
+28;I00028;Soundbar Samsung com 2.1 canais, Dolby Digital;3;10720
+29;I00029;Teclado Mecanico Fizz;2;1749
+30;I00030;Fone de Ouvido Profissional EDIFIER WH950NB;2;8990
+31;I00031;Fone de Ouvido Profissional EDIFIER WH950NB;2;8990
+32;I00032;Fone de Ouvido Profissional EDIFIER WH950NB;1;8990
+33;I00033;Soundbar Tomate MTS-2017, Bivolt;3;7699
+34;I00034;ACER Notebook Gamer Nitro;4;46040
+35;I00035;Película de Vidro 3D Galaxy A30s;3;179
+36;I00036;Carregador Turbo Tipo-C 50w;4;539
+37;I00037;Carregador Turbo Tipo-C 50w;1;539
+38;I00038;Fone de Ouvido Sem Fio TWS, PHILIPS;4;12491
+39;I00039;Samsung Galaxy A36;3;19791
+40;I00040;Fone de Ouvido Profissional EDIFIER WH950NB;2;8990
+41;I00041;Teclado Mecanico Fizz;1;1749
+42;I00042;Carregador Turbo Tipo-C 50w;1;539
+43;I00043;Soundbar Tomate MTS-2017, Bivolt;2;7699
+44;I00044;Fone de Ouvido Profissional EDIFIER WH950NB;1;8990
+45;I00045;Fone de Ouvido Sem Fio TWS, PHILIPS;1;12491
+46;I00046;Projetor EPSON Powerlite Wide Screen;3;274213
+47;I00047;ACER Notebook Gamer Nitro;3;46040
+48;I00048;Fone de Ouvido Profissional EDIFIER WH950NB;2;8990
+49;I00049;Fone de Ouvido Profissional AKG K92;1;42899
+50;I00050;Carregador Turbo Tipo-C 50w;1;539
+51;I00051;Teclado Mecanico Fizz;1;1749
+52;I00052;Fone de Ouvido Profissional EDIFIER WH950NB;3;8990
+53;I00053;Samsung Galaxy Tab S6 Lite;2;179901
+54;I00054;ACER Notebook Gamer Nitro;3;46040
+55;I00055;Fone de Ouvido Profissional AKG K92;4;42899
+56;I00056;"Smart TV LED 32""Samsung LED Tizen TV";2;10790
+57;I00057;Samsung Galaxy Tab S6 Lite;3;179901
+58;I00058;Soundbar Tomate MTS-2017, Bivolt;4;7699
+59;I00059;Fone de Ouvido Profissional EDIFIER WH950NB;4;8990
+60;I00060;Fone de ouvido Sem Fio QCY T27;2;12986
+61;I00061;Fone de Ouvido Sem Fio TWS, PHILIPS;4;12491
+62;I00062;"Smart TV LED 32""Samsung LED Tizen TV";4;10790
+63;I00063;Mouse Redragon Wireless;4;16599
+64;I00064;Soundbar Tomate MTS-2017, Bivolt;3;7699
+65;I00065;Fone de ouvido Sem Fio QCY T27;1;12986
+66;I00066;Película de Vidro 3D Galaxy A30s;2;179
+67;I00067;Carregador Turbo USB-C 30W;1;499
+68;I00068;"Smart TV LED 32""Samsung LED Tizen TV";4;10790
+69;I00069;"Smart TV LED 32""Samsung LED Tizen TV";3;10790
+70;I00070;Teclado Mecanico Fizz;2;1749
+71;I00071;"Smart TV LED 32""Samsung LED Tizen TV";1;10790
+72;I00072;Smart TV 32” Philco LED Roku TV;2;9490
+73;I00073;Projetor Smart Epson EpiqVision, FULL HD;1;304999
+74;I00074;Carregador Turbo Tipo-C 50w;3;539
+75;I00075;Projetor Smart Epson EpiqVision, FULL HD;2;304999
+76;I00076;Fone de ouvido Sem Fio QCY T27;4;12986
+77;I00077;Fone de Ouvido Profissional AKG K92;2;42899
+78;I00078;SSD Crucial 1TB NVMe M.2;3;4490
+79;I00079;Projetor EPSON Powerlite Wide Screen;3;274213
+80;I00080;Película para iPhone 14Pro Anti impacto;4;518
+81;I00081;Fone de ouvido Sem Fio QCY T27;4;12986
+82;I00082;Samsung Galaxy Tab S6 Lite;1;179901
+83;I00083;Fone de ouvido Sem Fio QCY T27;4;12986
+84;I00084;Projetor Smart Epson EpiqVision, FULL HD;2;304999
+85;I00085;Fone de ouvido Sem Fio QCY T27;3;12986
+86;I00086;Fone de Ouvido Sem Fio TWS, PHILIPS;3;12491
+87;I00087;Película para iPhone 14Pro Anti impacto;1;518
+88;I00088;Fone de ouvido Sem Fio QCY T27;4;12986
+89;I00089;"Smart TV LED 32""Samsung LED Tizen TV";4;10790
+90;I00090;Samsung Galaxy Tab S6 Lite;4;179901
+91;I00091;Película para iPhone 14Pro Anti impacto;3;518
+92;I00092;Fone de Ouvido Sem Fio TWS, PHILIPS;2;12491
+93;I00093;Soundbar Tomate MTS-2017, Bivolt;2;7699
+94;I00094;Fone de Ouvido Profissional EDIFIER WH950NB;2;8990
+95;I00095;Teclado Mecanico Fizz;3;1749
+96;I00096;Soundbar Tomate MTS-2017, Bivolt;4;7699
+97;I00097;Projetor Smart Epson EpiqVision, FULL HD;1;304999
+98;I00098;Teclado Mecanico Fizz;3;1749
+99;I00099;Fone de ouvido Sem Fio QCY T27;4;12986
+100;I00100;Smart TV 32” Philco LED Roku TV;2;9490
+101;I00101;Mouse Redragon Wireless;1;16599
+102;I00102;ACER Notebook Gamer Nitro;2;46040
+103;I00103;SSD Crucial 1TB NVMe M.2;4;4490
+104;I00104;Projetor Smart Epson EpiqVision, FULL HD;1;304999
+105;I00105;Película de Vidro 3D Galaxy A30s;4;179
+106;I00106;Projetor Smart Epson EpiqVision, FULL HD;2;304999
+107;I00107;Soundbar Samsung com 2.1 canais, Dolby Digital;4;10720
+108;I00108;Mouse Redragon Wireless;2;16599
+109;I00109;Película para iPhone 14Pro Anti impacto;3;518
+110;I00110;Carregador Turbo USB-C 30W;3;499
+111;I00111;Projetor EPSON Powerlite Wide Screen;4;274213
+112;I00112;Fone de ouvido Sem Fio QCY T27;3;12986
+113;I00113;Fone de ouvido Sem Fio QCY T27;3;12986
+114;I00114;Smart TV 32” Philco LED Roku TV;4;9490
+115;I00115;Samsung Galaxy A36;3;19791
+116;I00116;Soundbar Samsung com 2.1 canais, Dolby Digital;2;10720
+117;I00117;Soundbar Samsung com 2.1 canais, Dolby Digital;4;10720
+118;I00118;Carregador Turbo USB-C 30W;1;499
+119;I00119;SSD Crucial 1TB NVMe M.2;1;4490
+120;I00120;Película de Vidro 3D Galaxy A30s;2;179
+121;I00121;"Smart TV LED 32""Samsung LED Tizen TV";4;10790
+122;I00122;Samsung Galaxy A36;1;19791
+123;I00123;Fone de ouvido Sem Fio QCY T27;1;12986
+124;I00124;Samsung Galaxy A36;2;19791
+125;I00125;Película de Vidro 3D Galaxy A30s;4;179
+126;I00126;Projetor Smart Epson EpiqVision, FULL HD;1;304999
+127;I00127;Carregador Turbo Tipo-C 50w;3;539
+128;I00128;Fone de ouvido Sem Fio QCY T27;2;12986
+129;I00129;"Monitor UHD Samsung 32""";4;162657
+130;I00130;Projetor Smart Epson EpiqVision, FULL HD;2;304999
+131;I00131;Soundbar Tomate MTS-2017, Bivolt;4;7699
+132;I00132;"Monitor UHD Samsung 32""";4;162657
+133;I00133;"Smart TV LED 32""Samsung LED Tizen TV";3;10790
+134;I00134;Teclado Mecanico Fizz;4;1749
+135;I00135;Mouse Redragon Wireless;1;16599
+136;I00136;"Monitor UHD Samsung 32""";3;162657
+137;I00137;Samsung Galaxy Tab S6 Lite;3;179901
+138;I00138;Smart TV 32” Philco LED Roku TV;2;9490
+139;I00139;Película de Vidro 3D Galaxy A30s;3;179
+140;I00140;"Smart TV LED 32""Samsung LED Tizen TV";3;10790
+141;I00141;Película de Vidro 3D Galaxy A30s;1;179
+142;I00142;Mouse Redragon Wireless;4;16599
+143;I00143;Fone de Ouvido Profissional AKG K92;2;42899
+144;I00144;Carregador Turbo USB-C 30W;1;499
+145;I00145;Fone de ouvido Sem Fio QCY T27;3;12986
+146;I00146;Película de Vidro 3D Galaxy A30s;1;179
+147;I00147;Smart TV 32” Philco LED Roku TV;1;9490
+148;I00148;SSD Crucial 1TB NVMe M.2;4;4490
+149;I00149;"Monitor UHD Samsung 32""";4;162657
+150;I00150;Samsung Galaxy A36;3;19791
+151;I00151;Película para iPhone 14Pro Anti impacto;1;518
+152;I00152;ACER Notebook Gamer Nitro;2;46040
+153;I00153;Samsung Galaxy A36;4;19791
+154;I00154;Soundbar Tomate MTS-2017, Bivolt;3;7699
+155;I00155;Fone de Ouvido Sem Fio TWS, PHILIPS;2;12491
+156;I00156;Projetor Smart Epson EpiqVision, FULL HD;2;304999
+157;I00157;Soundbar Tomate MTS-2017, Bivolt;3;7699
+158;I00158;SSD Crucial 1TB NVMe M.2;1;4490
+159;I00159;Projetor Smart Epson EpiqVision, FULL HD;3;304999
+160;I00160;Fone de Ouvido Profissional AKG K92;1;42899
+161;I00161;Mouse Redragon Wireless;1;16599
+162;I00162;"Monitor UHD Samsung 32""";4;162657
+163;I00163;"Monitor UHD Samsung 32""";1;162657
+164;I00164;Samsung Galaxy Tab S6 Lite;3;179901
+165;I00165;"Smart TV LED 32""Samsung LED Tizen TV";1;10790
+166;I00166;Fone de Ouvido Profissional AKG K92;3;42899
+167;I00167;Projetor Smart Epson EpiqVision, FULL HD;2;304999
+168;I00168;Fone de Ouvido Profissional EDIFIER WH950NB;1;8990
+169;I00169;Fone de Ouvido Profissional EDIFIER WH950NB;3;8990
+170;I00170;Fone de ouvido Sem Fio QCY T27;2;12986
+171;I00171;SSD Crucial 1TB NVMe M.2;2;4490
+172;I00172;Soundbar Tomate MTS-2017, Bivolt;4;7699
+173;I00173;Teclado Mecanico Fizz;2;1749
+174;I00174;ACER Notebook Gamer Nitro;1;46040
+175;I00175;Projetor EPSON Powerlite Wide Screen;4;274213
+176;I00176;Carregador Turbo USB-C 30W;3;499
+177;I00177;Samsung Galaxy Tab S6 Lite;2;179901
+178;I00178;Samsung Galaxy Tab S6 Lite;2;179901
+179;I00179;"Smart TV LED 32""Samsung LED Tizen TV";4;10790
+180;I00180;Soundbar Samsung com 2.1 canais, Dolby Digital;4;10720
+181;I00181;Projetor EPSON Powerlite Wide Screen;2;274213
+182;I00182;Fone de Ouvido Profissional AKG K92;3;42899
+183;I00183;"Smart TV LED 32""Samsung LED Tizen TV";2;10790
+184;I00184;Samsung Galaxy A36;2;19791
+185;I00185;Carregador Turbo USB-C 30W;1;499
+186;I00186;"Monitor UHD Samsung 32""";2;162657
+187;I00187;Película para iPhone 14Pro Anti impacto;1;518
+188;I00188;Samsung Galaxy A36;4;19791
+189;I00189;ACER Notebook Gamer Nitro;4;46040
+190;I00190;Teclado Mecanico Fizz;2;1749
+191;I00191;Soundbar Samsung com 2.1 canais, Dolby Digital;1;10720
+192;I00192;"Monitor UHD Samsung 32""";2;162657
+193;I00193;Mouse Redragon Wireless;3;16599
+194;I00194;Fone de ouvido Sem Fio QCY T27;4;12986
+195;I00195;Samsung Galaxy Tab S6 Lite;3;179901
+196;I00196;Película para iPhone 14Pro Anti impacto;3;518
+197;I00197;Soundbar Tomate MTS-2017, Bivolt;3;7699
+198;I00198;SSD Crucial 1TB NVMe M.2;3;4490
+199;I00199;Projetor EPSON Powerlite Wide Screen;4;274213
+200;I00200;Carregador Turbo USB-C 30W;3;499
+201;I00201;Soundbar Tomate MTS-2017, Bivolt;1;7699
+202;I00202;Fone de Ouvido Profissional AKG K92;2;42899
+203;I00203;"Monitor UHD Samsung 32""";3;162657
+204;I00204;"Monitor UHD Samsung 32""";4;162657
+205;I00205;Samsung Galaxy Tab S6 Lite;4;179901
+206;I00206;ACER Notebook Gamer Nitro;4;46040
+207;I00207;Projetor EPSON Powerlite Wide Screen;4;274213
+208;I00208;Projetor EPSON Powerlite Wide Screen;3;274213
+209;I00209;Mouse Redragon Wireless;3;16599
+210;I00210;SSD Crucial 1TB NVMe M.2;1;4490
+211;I00211;Fone de Ouvido Sem Fio TWS, PHILIPS;3;12491
+212;I00212;Fone de Ouvido Profissional AKG K92;3;42899
+213;I00213;Samsung Galaxy A36;2;19791
+214;I00214;"Smart TV LED 32""Samsung LED Tizen TV";3;10790
+215;I00215;Película para iPhone 14Pro Anti impacto;3;518
+216;I00216;Smart TV 32” Philco LED Roku TV;1;9490
+217;I00217;Fone de Ouvido Profissional EDIFIER WH950NB;2;8990
+218;I00218;Projetor Smart Epson EpiqVision, FULL HD;3;304999
+219;I00219;Fone de Ouvido Profissional EDIFIER WH950NB;2;8990
+220;I00220;Fone de Ouvido Sem Fio TWS, PHILIPS;4;12491
+221;I00221;Película para iPhone 14Pro Anti impacto;3;518
+222;I00222;Carregador Turbo USB-C 30W;3;499
+223;I00223;Smart TV 32” Philco LED Roku TV;4;9490
+224;I00224;Carregador Turbo Tipo-C 50w;4;539
+225;I00225;Fone de Ouvido Profissional EDIFIER WH950NB;2;8990
+226;I00226;Soundbar Tomate MTS-2017, Bivolt;1;7699
+227;I00227;"Monitor UHD Samsung 32""";1;162657
+228;I00228;Fone de Ouvido Profissional EDIFIER WH950NB;3;8990
+229;I00229;Soundbar Samsung com 2.1 canais, Dolby Digital;1;10720
+230;I00230;Mouse Redragon Wireless;3;16599
+231;I00231;ACER Notebook Gamer Nitro;1;46040
+232;I00232;Fone de ouvido Sem Fio QCY T27;2;12986
+233;I00233;Soundbar Tomate MTS-2017, Bivolt;4;7699
+234;I00234;ACER Notebook Gamer Nitro;4;46040
+235;I00235;"Monitor UHD Samsung 32""";3;162657
+236;I00236;Fone de ouvido Sem Fio QCY T27;1;12986
+237;I00237;Samsung Galaxy Tab S6 Lite;4;179901
+238;I00238;Soundbar Samsung com 2.1 canais, Dolby Digital;2;10720
+239;I00239;Fone de Ouvido Sem Fio TWS, PHILIPS;3;12491
+240;I00240;Carregador Turbo USB-C 30W;4;499
+241;I00241;SSD Crucial 1TB NVMe M.2;4;4490
+242;I00242;Película para iPhone 14Pro Anti impacto;3;518
+243;I00243;Mouse Redragon Wireless;3;16599
+244;I00244;Soundbar Tomate MTS-2017, Bivolt;2;7699
+245;I00245;Smart TV 32” Philco LED Roku TV;1;9490
+246;I00246;SSD Crucial 1TB NVMe M.2;1;4490
+247;I00247;Projetor Smart Epson EpiqVision, FULL HD;4;304999
+248;I00248;Carregador Turbo Tipo-C 50w;1;539
+249;I00249;"Monitor UHD Samsung 32""";2;162657
+250;I00250;Mouse Redragon Wireless;4;16599
+251;I00251;Fone de Ouvido Profissional EDIFIER WH950NB;4;8990
+252;I00252;ACER Notebook Gamer Nitro;1;46040
+253;I00253;Fone de ouvido Sem Fio QCY T27;1;12986
+254;I00254;ACER Notebook Gamer Nitro;1;46040
+255;I00255;Samsung Galaxy A36;2;19791
+256;I00256;"Monitor UHD Samsung 32""";2;162657
+257;I00257;Carregador Turbo USB-C 30W;1;499
+258;I00258;Carregador Turbo USB-C 30W;2;499
+259;I00259;Fone de Ouvido Profissional AKG K92;3;42899
+260;I00260;Fone de Ouvido Sem Fio TWS, PHILIPS;3;12491
+261;I00261;Carregador Turbo Tipo-C 50w;4;539
+262;I00262;"Monitor UHD Samsung 32""";3;162657
+263;I00263;Soundbar Tomate MTS-2017, Bivolt;4;7699
+264;I00264;Smart TV 32” Philco LED Roku TV;1;9490
+265;I00265;Projetor Smart Epson EpiqVision, FULL HD;2;304999
+266;I00266;Soundbar Samsung com 2.1 canais, Dolby Digital;1;10720
+267;I00267;Película para iPhone 14Pro Anti impacto;3;518
+268;I00268;Soundbar Samsung com 2.1 canais, Dolby Digital;2;10720
+269;I00269;Projetor EPSON Powerlite Wide Screen;3;274213
+270;I00270;Fone de Ouvido Profissional EDIFIER WH950NB;1;8990
+271;I00271;"Smart TV LED 32""Samsung LED Tizen TV";2;10790
+272;I00272;Projetor Smart Epson EpiqVision, FULL HD;3;304999
+273;I00273;Projetor EPSON Powerlite Wide Screen;4;274213
+274;I00274;Teclado Mecanico Fizz;4;1749
+275;I00275;Teclado Mecanico Fizz;3;1749
+276;I00276;Samsung Galaxy A36;3;19791
+277;I00277;Película para iPhone 14Pro Anti impacto;3;518
+278;I00278;Fone de Ouvido Profissional EDIFIER WH950NB;4;8990
+279;I00279;Fone de ouvido Sem Fio QCY T27;1;12986
+280;I00280;SSD Crucial 1TB NVMe M.2;4;4490
+281;I00281;Carregador Turbo USB-C 30W;3;499
+282;I00282;Samsung Galaxy Tab S6 Lite;3;179901
+283;I00283;Película de Vidro 3D Galaxy A30s;2;179
+284;I00284;Película de Vidro 3D Galaxy A30s;3;179
+285;I00285;Carregador Turbo USB-C 30W;3;499
+286;I00286;Fone de ouvido Sem Fio QCY T27;1;12986
+287;I00287;"Smart TV LED 32""Samsung LED Tizen TV";4;10790
+288;I00288;Fone de Ouvido Profissional AKG K92;1;42899
+289;I00289;Fone de Ouvido Profissional EDIFIER WH950NB;2;8990
+290;I00290;Projetor EPSON Powerlite Wide Screen;2;274213
+291;I00291;Samsung Galaxy A36;2;19791
+292;I00292;ACER Notebook Gamer Nitro;4;46040
+293;I00293;Fone de Ouvido Sem Fio TWS, PHILIPS;4;12491
+294;I00294;Samsung Galaxy Tab S6 Lite;1;179901
+295;I00295;Fone de Ouvido Profissional AKG K92;2;42899
+296;I00296;Mouse Redragon Wireless;1;16599
+297;I00297;Samsung Galaxy A36;4;19791
+298;I00298;"Monitor UHD Samsung 32""";4;162657
+299;I00299;Fone de Ouvido Sem Fio TWS, PHILIPS;1;12491
+300;I00300;Teclado Mecanico Fizz;2;1749
+301;I00301;Soundbar Samsung com 2.1 canais, Dolby Digital;2;10720
+302;I00302;Soundbar Tomate MTS-2017, Bivolt;2;7699
+303;I00303;Fone de ouvido Sem Fio QCY T27;4;12986
+304;I00304;Película de Vidro 3D Galaxy A30s;2;179
+305;I00305;Soundbar Samsung com 2.1 canais, Dolby Digital;1;10720
+306;I00306;Mouse Redragon Wireless;2;16599
+307;I00307;Projetor EPSON Powerlite Wide Screen;3;274213
+308;I00308;Carregador Turbo Tipo-C 50w;3;539
+309;I00309;Teclado Mecanico Fizz;3;1749
+310;I00310;Mouse Redragon Wireless;3;16599
+311;I00311;Soundbar Samsung com 2.1 canais, Dolby Digital;1;10720
+312;I00312;Fone de Ouvido Profissional EDIFIER WH950NB;4;8990
+313;I00313;Samsung Galaxy A36;1;19791
+314;I00314;Fone de Ouvido Profissional EDIFIER WH950NB;3;8990
+315;I00315;"Smart TV LED 32""Samsung LED Tizen TV";1;10790
+316;I00316;Película de Vidro 3D Galaxy A30s;3;179
+317;I00317;Projetor Smart Epson EpiqVision, FULL HD;4;304999
+318;I00318;Carregador Turbo Tipo-C 50w;4;539
+319;I00319;Película para iPhone 14Pro Anti impacto;4;518
+320;I00320;Projetor Smart Epson EpiqVision, FULL HD;3;304999
+321;I00321;Samsung Galaxy Tab S6 Lite;1;179901
+322;I00322;Projetor EPSON Powerlite Wide Screen;3;274213
+323;I00323;Soundbar Samsung com 2.1 canais, Dolby Digital;2;10720
+324;I00324;Samsung Galaxy A36;4;19791
+325;I00325;SSD Crucial 1TB NVMe M.2;1;4490
+326;I00326;"Monitor UHD Samsung 32""";2;162657
+327;I00327;Fone de Ouvido Profissional EDIFIER WH950NB;3;8990
+328;I00328;Soundbar Tomate MTS-2017, Bivolt;1;7699
+329;I00329;"Smart TV LED 32""Samsung LED Tizen TV";3;10790
+330;I00330;Soundbar Samsung com 2.1 canais, Dolby Digital;2;10720
+331;I00331;Carregador Turbo USB-C 30W;4;499
+332;I00332;Película de Vidro 3D Galaxy A30s;1;179
+333;I00333;Projetor Smart Epson EpiqVision, FULL HD;3;304999
+334;I00334;Fone de ouvido Sem Fio QCY T27;4;12986
+335;I00335;Smart TV 32” Philco LED Roku TV;2;9490
+336;I00336;Fone de Ouvido Profissional AKG K92;1;42899
+337;I00337;Soundbar Samsung com 2.1 canais, Dolby Digital;1;10720
+338;I00338;Projetor Smart Epson EpiqVision, FULL HD;1;304999
+339;I00339;Projetor EPSON Powerlite Wide Screen;4;274213
+340;I00340;SSD Crucial 1TB NVMe M.2;1;4490
+341;I00341;Película para iPhone 14Pro Anti impacto;4;518
+342;I00342;Smart TV 32” Philco LED Roku TV;3;9490
+343;I00343;Fone de Ouvido Profissional AKG K92;1;42899
+344;I00344;Fone de ouvido Sem Fio QCY T27;4;12986
+345;I00345;Carregador Turbo USB-C 30W;2;499
+346;I00346;Fone de ouvido Sem Fio QCY T27;4;12986
+347;I00347;Soundbar Tomate MTS-2017, Bivolt;3;7699
+348;I00348;Projetor Smart Epson EpiqVision, FULL HD;3;304999
+349;I00349;"Smart TV LED 32""Samsung LED Tizen TV";4;10790
+350;I00350;Película de Vidro 3D Galaxy A30s;2;179
+351;I00351;Fone de ouvido Sem Fio QCY T27;3;12986
+352;I00352;Samsung Galaxy A36;2;19791
+353;I00353;Projetor EPSON Powerlite Wide Screen;1;274213
+354;I00354;Fone de Ouvido Profissional EDIFIER WH950NB;3;8990
+355;I00355;Projetor Smart Epson EpiqVision, FULL HD;3;304999
+356;I00356;Fone de Ouvido Profissional EDIFIER WH950NB;4;8990
+357;I00357;Teclado Mecanico Fizz;2;1749
+358;I00358;Película para iPhone 14Pro Anti impacto;1;518
+359;I00359;Película de Vidro 3D Galaxy A30s;1;179
+360;I00360;Soundbar Samsung com 2.1 canais, Dolby Digital;3;10720
+361;I00361;Mouse Redragon Wireless;2;16599
+362;I00362;Teclado Mecanico Fizz;4;1749
+363;I00363;ACER Notebook Gamer Nitro;2;46040
+364;I00364;Mouse Redragon Wireless;1;16599
+365;I00365;Carregador Turbo USB-C 30W;4;499
+366;I00366;Fone de Ouvido Profissional AKG K92;3;42899
+367;I00367;"Monitor UHD Samsung 32""";4;162657
+368;I00368;Projetor EPSON Powerlite Wide Screen;1;274213
+369;I00369;Fone de ouvido Sem Fio QCY T27;4;12986
+370;I00370;Fone de Ouvido Sem Fio TWS, PHILIPS;3;12491
+371;I00371;Fone de Ouvido Sem Fio TWS, PHILIPS;2;12491
+372;I00372;Película de Vidro 3D Galaxy A30s;3;179
+373;I00373;Película de Vidro 3D Galaxy A30s;4;179
+374;I00374;"Monitor UHD Samsung 32""";1;162657
+375;I00375;"Monitor UHD Samsung 32""";1;162657
+376;I00376;Carregador Turbo Tipo-C 50w;3;539
+377;I00377;"Smart TV LED 32""Samsung LED Tizen TV";3;10790
+378;I00378;Película de Vidro 3D Galaxy A30s;4;179
+379;I00379;Soundbar Samsung com 2.1 canais, Dolby Digital;2;10720
+380;I00380;Samsung Galaxy Tab S6 Lite;1;179901
+381;I00381;SSD Crucial 1TB NVMe M.2;2;4490
+382;I00382;Fone de Ouvido Profissional AKG K92;3;42899
+383;I00383;Projetor EPSON Powerlite Wide Screen;2;274213
+384;I00384;Samsung Galaxy A36;2;19791
+385;I00385;Película para iPhone 14Pro Anti impacto;2;518
+386;I00386;Samsung Galaxy Tab S6 Lite;4;179901
+387;I00387;Mouse Redragon Wireless;1;16599
+388;I00388;SSD Crucial 1TB NVMe M.2;4;4490
+389;I00389;Mouse Redragon Wireless;3;16599
+390;I00390;Projetor EPSON Powerlite Wide Screen;3;274213
+391;I00391;Carregador Turbo USB-C 30W;1;499
+392;I00392;Projetor EPSON Powerlite Wide Screen;3;274213
+393;I00393;Película de Vidro 3D Galaxy A30s;1;179
+394;I00394;Projetor EPSON Powerlite Wide Screen;2;274213
+395;I00395;Fone de Ouvido Profissional AKG K92;2;42899
+396;I00396;ACER Notebook Gamer Nitro;3;46040
+397;I00397;Soundbar Samsung com 2.1 canais, Dolby Digital;2;10720
+398;I00398;Teclado Mecanico Fizz;1;1749
+399;I00399;Samsung Galaxy Tab S6 Lite;1;179901
+400;I00400;Projetor EPSON Powerlite Wide Screen;3;274213
+401;I00401;SSD Crucial 1TB NVMe M.2;4;4490
+402;I00402;Soundbar Tomate MTS-2017, Bivolt;3;7699
+403;I00403;ACER Notebook Gamer Nitro;1;46040
+404;I00404;Fone de Ouvido Profissional EDIFIER WH950NB;3;8990
+405;I00405;Fone de Ouvido Sem Fio TWS, PHILIPS;4;12491
+406;I00406;Película para iPhone 14Pro Anti impacto;3;518
+407;I00407;Fone de Ouvido Profissional AKG K92;3;42899
+408;I00408;Fone de ouvido Sem Fio QCY T27;2;12986
+409;I00409;Carregador Turbo USB-C 30W;1;499
+410;I00410;SSD Crucial 1TB NVMe M.2;1;4490
+411;I00411;Mouse Redragon Wireless;1;16599
+412;I00412;Fone de ouvido Sem Fio QCY T27;3;12986
+413;I00413;Carregador Turbo Tipo-C 50w;1;539
+414;I00414;Película de Vidro 3D Galaxy A30s;2;179
+415;I00415;Projetor EPSON Powerlite Wide Screen;4;274213
+416;I00416;Projetor EPSON Powerlite Wide Screen;1;274213
+417;I00417;Teclado Mecanico Fizz;2;1749
+418;I00418;Fone de Ouvido Sem Fio TWS, PHILIPS;3;12491
+419;I00419;Soundbar Tomate MTS-2017, Bivolt;3;7699
+420;I00420;Película de Vidro 3D Galaxy A30s;1;179
+421;I00421;ACER Notebook Gamer Nitro;4;46040
+422;I00422;"Monitor UHD Samsung 32""";1;162657
+423;I00423;Samsung Galaxy Tab S6 Lite;3;179901
+424;I00424;Carregador Turbo Tipo-C 50w;3;539
+425;I00425;Fone de ouvido Sem Fio QCY T27;1;12986
+426;I00426;Película de Vidro 3D Galaxy A30s;2;179
+427;I00427;"Monitor UHD Samsung 32""";3;162657
+428;I00428;Carregador Turbo USB-C 30W;2;499
+429;I00429;Teclado Mecanico Fizz;2;1749
+430;I00430;Fone de Ouvido Sem Fio TWS, PHILIPS;4;12491
+431;I00431;Smart TV 32” Philco LED Roku TV;4;9490
+432;I00432;Soundbar Samsung com 2.1 canais, Dolby Digital;3;10720
+433;I00433;Smart TV 32” Philco LED Roku TV;4;9490
+434;I00434;Samsung Galaxy Tab S6 Lite;3;179901
+435;I00435;Samsung Galaxy A36;3;19791
+436;I00436;Projetor Smart Epson EpiqVision, FULL HD;2;304999
+437;I00437;"Monitor UHD Samsung 32""";1;162657
+438;I00438;Película para iPhone 14Pro Anti impacto;1;518
+439;I00439;Samsung Galaxy A36;1;19791
+440;I00440;Samsung Galaxy A36;2;19791
+441;I00441;Carregador Turbo USB-C 30W;3;499
+442;I00442;Samsung Galaxy A36;4;19791
+443;I00443;ACER Notebook Gamer Nitro;1;46040
+444;I00444;Teclado Mecanico Fizz;4;1749
+445;I00445;Mouse Redragon Wireless;4;16599
+446;I00446;Fone de Ouvido Profissional EDIFIER WH950NB;1;8990
+447;I00447;Smart TV 32” Philco LED Roku TV;3;9490
+448;I00448;Película para iPhone 14Pro Anti impacto;4;518
+449;I00449;Fone de Ouvido Sem Fio TWS, PHILIPS;2;12491
+450;I00450;Fone de Ouvido Profissional EDIFIER WH950NB;1;8990
+451;I00451;Fone de ouvido Sem Fio QCY T27;1;12986
+452;I00452;Fone de Ouvido Profissional EDIFIER WH950NB;2;8990
+453;I00453;Película de Vidro 3D Galaxy A30s;2;179
+454;I00454;Fone de ouvido Sem Fio QCY T27;2;12986
+455;I00455;Película de Vidro 3D Galaxy A30s;4;179
+456;I00456;Samsung Galaxy A36;3;19791
+457;I00457;ACER Notebook Gamer Nitro;2;46040
+458;I00458;Fone de Ouvido Sem Fio TWS, PHILIPS;1;12491
+459;I00459;Samsung Galaxy A36;4;19791
+460;I00460;Samsung Galaxy Tab S6 Lite;3;179901
+461;I00461;Fone de Ouvido Profissional AKG K92;4;42899
+462;I00462;Fone de ouvido Sem Fio QCY T27;3;12986
+463;I00463;Carregador Turbo Tipo-C 50w;3;539
+464;I00464;ACER Notebook Gamer Nitro;4;46040
+465;I00465;Película de Vidro 3D Galaxy A30s;2;179
+466;I00466;Carregador Turbo USB-C 30W;4;499
+467;I00467;Carregador Turbo Tipo-C 50w;1;539
+468;I00468;Samsung Galaxy Tab S6 Lite;1;179901
+469;I00469;Projetor Smart Epson EpiqVision, FULL HD;1;304999
+470;I00470;Fone de Ouvido Sem Fio TWS, PHILIPS;4;12491
+471;I00471;Carregador Turbo Tipo-C 50w;4;539
+472;I00472;ACER Notebook Gamer Nitro;2;46040
+473;I00473;Projetor EPSON Powerlite Wide Screen;2;274213
+474;I00474;Smart TV 32” Philco LED Roku TV;3;9490
+475;I00475;Smart TV 32” Philco LED Roku TV;4;9490
+476;I00476;ACER Notebook Gamer Nitro;4;46040
+477;I00477;Carregador Turbo Tipo-C 50w;2;539
+478;I00478;Teclado Mecanico Fizz;1;1749
+479;I00479;Fone de Ouvido Profissional AKG K92;3;42899
+480;I00480;Carregador Turbo Tipo-C 50w;4;539
+481;I00481;Mouse Redragon Wireless;2;16599
+482;I00482;Soundbar Tomate MTS-2017, Bivolt;1;7699
+483;I00483;Fone de ouvido Sem Fio QCY T27;2;12986
+484;I00484;Película de Vidro 3D Galaxy A30s;2;179
+485;I00485;Projetor EPSON Powerlite Wide Screen;3;274213
+486;I00486;Samsung Galaxy A36;3;19791
+487;I00487;Fone de Ouvido Profissional EDIFIER WH950NB;3;8990
+488;I00488;"Smart TV LED 32""Samsung LED Tizen TV";2;10790
+489;I00489;Fone de Ouvido Profissional AKG K92;4;42899
+490;I00490;SSD Crucial 1TB NVMe M.2;3;4490
+491;I00491;Samsung Galaxy Tab S6 Lite;4;179901
+492;I00492;Projetor EPSON Powerlite Wide Screen;2;274213
+493;I00493;Fone de ouvido Sem Fio QCY T27;3;12986
+494;I00494;Película de Vidro 3D Galaxy A30s;3;179
+495;I00495;Projetor Smart Epson EpiqVision, FULL HD;1;304999
+496;I00496;ACER Notebook Gamer Nitro;4;46040
+497;I00497;Soundbar Samsung com 2.1 canais, Dolby Digital;4;10720
+498;I00498;"Monitor UHD Samsung 32""";1;162657
+499;I00499;Projetor EPSON Powerlite Wide Screen;1;274213
+500;I00500;Fone de Ouvido Profissional AKG K92;3;42899
+501;I00501;Fone de Ouvido Sem Fio TWS, PHILIPS;2;12491
+502;I00502;Projetor EPSON Powerlite Wide Screen;1;274213
+503;I00503;Smart TV 32” Philco LED Roku TV;4;9490
+504;I00504;Mouse Redragon Wireless;3;16599
+505;I00505;Fone de Ouvido Sem Fio TWS, PHILIPS;1;12491
+506;I00506;Mouse Redragon Wireless;4;16599
+507;I00507;Película de Vidro 3D Galaxy A30s;1;179
+508;I00508;Fone de Ouvido Profissional EDIFIER WH950NB;1;8990
+509;I00509;Soundbar Samsung com 2.1 canais, Dolby Digital;1;10720
+510;I00510;"Monitor UHD Samsung 32""";1;162657
+511;I00511;Teclado Mecanico Fizz;3;1749
+512;I00512;Fone de Ouvido Sem Fio TWS, PHILIPS;3;12491
+513;I00513;"Smart TV LED 32""Samsung LED Tizen TV";1;10790
+514;I00514;Película para iPhone 14Pro Anti impacto;2;518
+515;I00515;Smart TV 32” Philco LED Roku TV;3;9490
+516;I00516;Samsung Galaxy Tab S6 Lite;4;179901
+517;I00517;Fone de Ouvido Sem Fio TWS, PHILIPS;1;12491
+518;I00518;Carregador Turbo USB-C 30W;4;499
+519;I00519;"Monitor UHD Samsung 32""";4;162657
+520;I00520;Película para iPhone 14Pro Anti impacto;1;518
+521;I00521;ACER Notebook Gamer Nitro;3;46040
+522;I00522;Carregador Turbo Tipo-C 50w;2;539
+523;I00523;Carregador Turbo Tipo-C 50w;3;539
+524;I00524;Samsung Galaxy Tab S6 Lite;4;179901
+525;I00525;Película para iPhone 14Pro Anti impacto;3;518
+526;I00526;ACER Notebook Gamer Nitro;2;46040
+527;I00527;Película de Vidro 3D Galaxy A30s;3;179
+528;I00528;Samsung Galaxy Tab S6 Lite;2;179901
+529;I00529;Fone de ouvido Sem Fio QCY T27;1;12986
+530;I00530;ACER Notebook Gamer Nitro;3;46040
+531;I00531;Película de Vidro 3D Galaxy A30s;3;179
+532;I00532;Carregador Turbo Tipo-C 50w;2;539
+533;I00533;Soundbar Tomate MTS-2017, Bivolt;1;7699
+534;I00534;Fone de Ouvido Profissional AKG K92;4;42899
+535;I00535;Fone de Ouvido Profissional AKG K92;4;42899
+536;I00536;Teclado Mecanico Fizz;1;1749
+537;I00537;Fone de Ouvido Profissional AKG K92;1;42899
+538;I00538;Teclado Mecanico Fizz;3;1749
+539;I00539;"Smart TV LED 32""Samsung LED Tizen TV";4;10790
+540;I00540;Teclado Mecanico Fizz;3;1749
+541;I00541;Carregador Turbo USB-C 30W;3;499
+542;I00542;Carregador Turbo USB-C 30W;2;499
+543;I00543;Fone de ouvido Sem Fio QCY T27;1;12986
+544;I00544;Smart TV 32” Philco LED Roku TV;3;9490
+545;I00545;Fone de Ouvido Profissional EDIFIER WH950NB;2;8990
+546;I00546;ACER Notebook Gamer Nitro;1;46040
+547;I00547;Smart TV 32” Philco LED Roku TV;3;9490
+548;I00548;ACER Notebook Gamer Nitro;4;46040
+549;I00549;Película de Vidro 3D Galaxy A30s;4;179
+550;I00550;Carregador Turbo Tipo-C 50w;1;539
+551;I00551;Mouse Redragon Wireless;3;16599
+552;I00552;Teclado Mecanico Fizz;4;1749
+553;I00553;Fone de ouvido Sem Fio QCY T27;3;12986
+554;I00554;Fone de Ouvido Profissional AKG K92;1;42899
+555;I00555;Carregador Turbo Tipo-C 50w;1;539
+556;I00556;"Monitor UHD Samsung 32""";4;162657
+557;I00557;ACER Notebook Gamer Nitro;2;46040
+558;I00558;Mouse Redragon Wireless;2;16599
+559;I00559;Teclado Mecanico Fizz;1;1749
+560;I00560;Carregador Turbo Tipo-C 50w;3;539
+561;I00561;"Smart TV LED 32""Samsung LED Tizen TV";2;10790
+562;I00562;Projetor EPSON Powerlite Wide Screen;4;274213
+563;I00563;Fone de Ouvido Sem Fio TWS, PHILIPS;4;12491
+564;I00564;Mouse Redragon Wireless;2;16599
+565;I00565;Mouse Redragon Wireless;4;16599
+566;I00566;Película de Vidro 3D Galaxy A30s;1;179
+567;I00567;Soundbar Samsung com 2.1 canais, Dolby Digital;2;10720
+568;I00568;Soundbar Samsung com 2.1 canais, Dolby Digital;2;10720
+569;I00569;Fone de Ouvido Profissional EDIFIER WH950NB;1;8990
+570;I00570;Projetor EPSON Powerlite Wide Screen;3;274213
+571;I00571;Fone de ouvido Sem Fio QCY T27;4;12986
+572;I00572;Fone de Ouvido Profissional EDIFIER WH950NB;1;8990
+573;I00573;Fone de Ouvido Sem Fio TWS, PHILIPS;1;12491
+574;I00574;Fone de Ouvido Sem Fio TWS, PHILIPS;4;12491
+575;I00575;Película de Vidro 3D Galaxy A30s;2;179
+576;I00576;"Monitor UHD Samsung 32""";4;162657
+577;I00577;Smart TV 32” Philco LED Roku TV;1;9490
+578;I00578;"Monitor UHD Samsung 32""";1;162657
+579;I00579;Carregador Turbo USB-C 30W;2;499
+580;I00580;Carregador Turbo Tipo-C 50w;3;539
+581;I00581;Soundbar Samsung com 2.1 canais, Dolby Digital;1;10720
+582;I00582;ACER Notebook Gamer Nitro;4;46040
+583;I00583;Soundbar Samsung com 2.1 canais, Dolby Digital;4;10720
+584;I00584;Fone de Ouvido Profissional AKG K92;3;42899
+585;I00585;Mouse Redragon Wireless;2;16599
+586;I00586;"Monitor UHD Samsung 32""";1;162657
+587;I00587;Projetor EPSON Powerlite Wide Screen;3;274213
+588;I00588;Teclado Mecanico Fizz;1;1749
+589;I00589;"Monitor UHD Samsung 32""";1;162657
+590;I00590;Fone de Ouvido Profissional AKG K92;4;42899
+591;I00591;Película para iPhone 14Pro Anti impacto;2;518
+592;I00592;Teclado Mecanico Fizz;1;1749
+593;I00593;"Smart TV LED 32""Samsung LED Tizen TV";2;10790
+594;I00594;Soundbar Samsung com 2.1 canais, Dolby Digital;3;10720
+595;I00595;Samsung Galaxy Tab S6 Lite;3;179901
+596;I00596;Película para iPhone 14Pro Anti impacto;4;518
+597;I00597;Fone de Ouvido Sem Fio TWS, PHILIPS;4;12491
+598;I00598;Soundbar Tomate MTS-2017, Bivolt;1;7699
+599;I00599;Carregador Turbo USB-C 30W;1;499
+600;I00600;Projetor EPSON Powerlite Wide Screen;2;274213
+601;I00601;Película de Vidro 3D Galaxy A30s;1;179
+602;I00602;Samsung Galaxy Tab S6 Lite;1;179901
+603;I00603;Fone de Ouvido Profissional EDIFIER WH950NB;4;8990
+604;I00604;Samsung Galaxy Tab S6 Lite;1;179901
+605;I00605;Projetor EPSON Powerlite Wide Screen;3;274213
+606;I00606;Projetor Smart Epson EpiqVision, FULL HD;2;304999
+607;I00607;Teclado Mecanico Fizz;1;1749
+608;I00608;Fone de Ouvido Profissional EDIFIER WH950NB;2;8990
+609;I00609;Película de Vidro 3D Galaxy A30s;2;179
+610;I00610;Soundbar Tomate MTS-2017, Bivolt;1;7699
+611;I00611;Fone de Ouvido Profissional AKG K92;2;42899
+612;I00612;Fone de Ouvido Sem Fio TWS, PHILIPS;3;12491
+613;I00613;Smart TV 32” Philco LED Roku TV;1;9490
+614;I00614;Fone de Ouvido Profissional EDIFIER WH950NB;4;8990
+615;I00615;Teclado Mecanico Fizz;2;1749
+616;I00616;Fone de ouvido Sem Fio QCY T27;1;12986
+617;I00617;Samsung Galaxy A36;2;19791
+618;I00618;"Smart TV LED 32""Samsung LED Tizen TV";4;10790
+619;I00619;"Smart TV LED 32""Samsung LED Tizen TV";1;10790
+620;I00620;Fone de ouvido Sem Fio QCY T27;3;12986
+621;I00621;Soundbar Samsung com 2.1 canais, Dolby Digital;1;10720
+622;I00622;Projetor EPSON Powerlite Wide Screen;4;274213
+623;I00623;Mouse Redragon Wireless;4;16599
+624;I00624;Película para iPhone 14Pro Anti impacto;1;518
+625;I00625;Samsung Galaxy A36;4;19791
+626;I00626;Fone de ouvido Sem Fio QCY T27;2;12986
+627;I00627;Soundbar Samsung com 2.1 canais, Dolby Digital;3;10720
+628;I00628;Projetor Smart Epson EpiqVision, FULL HD;4;304999
+629;I00629;ACER Notebook Gamer Nitro;3;46040
+630;I00630;Carregador Turbo USB-C 30W;4;499
+631;I00631;"Monitor UHD Samsung 32""";2;162657
+632;I00632;Película de Vidro 3D Galaxy A30s;1;179
+633;I00633;Fone de Ouvido Sem Fio TWS, PHILIPS;4;12491
+634;I00634;Fone de ouvido Sem Fio QCY T27;3;12986
+635;I00635;Projetor EPSON Powerlite Wide Screen;1;274213
+636;I00636;Fone de Ouvido Sem Fio TWS, PHILIPS;4;12491
+637;I00637;Fone de Ouvido Profissional AKG K92;4;42899
+638;I00638;SSD Crucial 1TB NVMe M.2;4;4490
+639;I00639;ACER Notebook Gamer Nitro;2;46040
+640;I00640;"Monitor UHD Samsung 32""";2;162657
+641;I00641;Teclado Mecanico Fizz;4;1749
+642;I00642;Mouse Redragon Wireless;1;16599
+643;I00643;Projetor EPSON Powerlite Wide Screen;3;274213
+644;I00644;Smart TV 32” Philco LED Roku TV;1;9490
+645;I00645;Película para iPhone 14Pro Anti impacto;2;518
+646;I00646;Carregador Turbo USB-C 30W;2;499
+647;I00647;Fone de Ouvido Profissional AKG K92;1;42899
+648;I00648;Carregador Turbo Tipo-C 50w;1;539
+649;I00649;Fone de Ouvido Sem Fio TWS, PHILIPS;3;12491
+650;I00650;Teclado Mecanico Fizz;1;1749
+651;I00651;Teclado Mecanico Fizz;3;1749
+652;I00652;Samsung Galaxy Tab S6 Lite;4;179901
+653;I00653;"Smart TV LED 32""Samsung LED Tizen TV";3;10790
+654;I00654;Fone de Ouvido Profissional EDIFIER WH950NB;2;8990
+655;I00655;Carregador Turbo USB-C 30W;4;499
+656;I00656;Carregador Turbo USB-C 30W;2;499
+657;I00657;Smart TV 32” Philco LED Roku TV;3;9490
+658;I00658;Mouse Redragon Wireless;2;16599
+659;I00659;Carregador Turbo Tipo-C 50w;1;539
+660;I00660;Película para iPhone 14Pro Anti impacto;1;518
+661;I00661;Teclado Mecanico Fizz;3;1749
+662;I00662;Samsung Galaxy A36;3;19791
+663;I00663;Soundbar Tomate MTS-2017, Bivolt;1;7699
+664;I00664;Samsung Galaxy Tab S6 Lite;2;179901
+665;I00665;Smart TV 32” Philco LED Roku TV;2;9490
+666;I00666;Projetor Smart Epson EpiqVision, FULL HD;3;304999
+667;I00667;SSD Crucial 1TB NVMe M.2;2;4490
+668;I00668;Samsung Galaxy Tab S6 Lite;1;179901
+669;I00669;Mouse Redragon Wireless;4;16599
+670;I00670;Projetor EPSON Powerlite Wide Screen;1;274213
+671;I00671;Fone de Ouvido Profissional EDIFIER WH950NB;3;8990
+672;I00672;SSD Crucial 1TB NVMe M.2;2;4490
+673;I00673;Película de Vidro 3D Galaxy A30s;3;179
+674;I00674;Fone de Ouvido Sem Fio TWS, PHILIPS;3;12491
+675;I00675;Fone de Ouvido Profissional EDIFIER WH950NB;4;8990
+676;I00676;Fone de Ouvido Sem Fio TWS, PHILIPS;2;12491
+677;I00677;Samsung Galaxy A36;4;19791
+678;I00678;Soundbar Tomate MTS-2017, Bivolt;1;7699
+679;I00679;Fone de Ouvido Profissional EDIFIER WH950NB;1;8990
+680;I00680;Carregador Turbo Tipo-C 50w;3;539
+681;I00681;Soundbar Tomate MTS-2017, Bivolt;4;7699
+682;I00682;Soundbar Tomate MTS-2017, Bivolt;3;7699
+683;I00683;Projetor Smart Epson EpiqVision, FULL HD;3;304999
+684;I00684;Fone de Ouvido Sem Fio TWS, PHILIPS;2;12491
+685;I00685;Fone de ouvido Sem Fio QCY T27;3;12986
+686;I00686;Carregador Turbo USB-C 30W;1;499
+687;I00687;Carregador Turbo USB-C 30W;2;499
+688;I00688;SSD Crucial 1TB NVMe M.2;2;4490
+689;I00689;Samsung Galaxy A36;2;19791
+690;I00690;Fone de ouvido Sem Fio QCY T27;3;12986
+691;I00691;Projetor EPSON Powerlite Wide Screen;1;274213
+692;I00692;"Monitor UHD Samsung 32""";2;162657
+693;I00693;Fone de ouvido Sem Fio QCY T27;1;12986
+694;I00694;Teclado Mecanico Fizz;4;1749
+695;I00695;Projetor EPSON Powerlite Wide Screen;2;274213
+696;I00696;Carregador Turbo Tipo-C 50w;2;539
+697;I00697;Teclado Mecanico Fizz;3;1749
+698;I00698;"Monitor UHD Samsung 32""";1;162657
+699;I00699;SSD Crucial 1TB NVMe M.2;4;4490
+700;I00700;Soundbar Samsung com 2.1 canais, Dolby Digital;4;10720
+701;I00701;Película para iPhone 14Pro Anti impacto;1;518
+702;I00702;Película de Vidro 3D Galaxy A30s;1;179
+703;I00703;Samsung Galaxy A36;2;19791
+704;I00704;Fone de Ouvido Profissional AKG K92;3;42899
+705;I00705;Fone de ouvido Sem Fio QCY T27;3;12986
+706;I00706;Película de Vidro 3D Galaxy A30s;1;179
+707;I00707;ACER Notebook Gamer Nitro;1;46040
+708;I00708;Projetor Smart Epson EpiqVision, FULL HD;3;304999
+709;I00709;Película para iPhone 14Pro Anti impacto;2;518
+710;I00710;"Smart TV LED 32""Samsung LED Tizen TV";2;10790
+711;I00711;Projetor Smart Epson EpiqVision, FULL HD;3;304999
+712;I00712;Smart TV 32” Philco LED Roku TV;3;9490
+713;I00713;Fone de Ouvido Sem Fio TWS, PHILIPS;1;12491
+714;I00714;Soundbar Tomate MTS-2017, Bivolt;3;7699
+715;I00715;Soundbar Tomate MTS-2017, Bivolt;1;7699
+716;I00716;Carregador Turbo USB-C 30W;4;499
+717;I00717;Fone de ouvido Sem Fio QCY T27;2;12986
+718;I00718;Projetor Smart Epson EpiqVision, FULL HD;4;304999
+719;I00719;Teclado Mecanico Fizz;4;1749
+720;I00720;"Monitor UHD Samsung 32""";1;162657
+721;I00721;Samsung Galaxy Tab S6 Lite;2;179901
+722;I00722;Fone de Ouvido Profissional EDIFIER WH950NB;4;8990
+723;I00723;"Smart TV LED 32""Samsung LED Tizen TV";4;10790
+724;I00724;"Monitor UHD Samsung 32""";4;162657
+725;I00725;ACER Notebook Gamer Nitro;4;46040
+726;I00726;Fone de ouvido Sem Fio QCY T27;1;12986
+727;I00727;"Smart TV LED 32""Samsung LED Tizen TV";2;10790
+728;I00728;Projetor Smart Epson EpiqVision, FULL HD;1;304999
+729;I00729;Película para iPhone 14Pro Anti impacto;1;518
+730;I00730;Carregador Turbo USB-C 30W;4;499
+731;I00731;Carregador Turbo USB-C 30W;4;499
+732;I00732;Fone de Ouvido Profissional AKG K92;4;42899
+733;I00733;Soundbar Samsung com 2.1 canais, Dolby Digital;1;10720
+734;I00734;Fone de ouvido Sem Fio QCY T27;3;12986
+735;I00735;"Smart TV LED 32""Samsung LED Tizen TV";1;10790
+736;I00736;Carregador Turbo USB-C 30W;3;499
+737;I00737;Película de Vidro 3D Galaxy A30s;4;179
+738;I00738;Fone de Ouvido Sem Fio TWS, PHILIPS;3;12491
+739;I00739;Carregador Turbo Tipo-C 50w;4;539
+740;I00740;Fone de Ouvido Sem Fio TWS, PHILIPS;4;12491
+741;I00741;Soundbar Tomate MTS-2017, Bivolt;3;7699
+742;I00742;Projetor Smart Epson EpiqVision, FULL HD;4;304999
+743;I00743;"Smart TV LED 32""Samsung LED Tizen TV";4;10790
+744;I00744;Soundbar Tomate MTS-2017, Bivolt;2;7699
+745;I00745;"Smart TV LED 32""Samsung LED Tizen TV";3;10790
+746;I00746;Smart TV 32” Philco LED Roku TV;1;9490
+747;I00747;Mouse Redragon Wireless;3;16599
+748;I00748;Teclado Mecanico Fizz;1;1749
+749;I00749;Fone de Ouvido Profissional AKG K92;2;42899
+750;I00750;"Monitor UHD Samsung 32""";2;162657
+751;I00751;Projetor Smart Epson EpiqVision, FULL HD;2;304999
+752;I00752;Fone de Ouvido Sem Fio TWS, PHILIPS;1;12491
+753;I00753;ACER Notebook Gamer Nitro;4;46040
+754;I00754;Projetor EPSON Powerlite Wide Screen;1;274213
+755;I00755;Soundbar Tomate MTS-2017, Bivolt;3;7699
+756;I00756;Película de Vidro 3D Galaxy A30s;3;179
+757;I00757;Fone de Ouvido Profissional AKG K92;2;42899
+758;I00758;"Smart TV LED 32""Samsung LED Tizen TV";1;10790
+759;I00759;Fone de Ouvido Profissional AKG K92;1;42899
+760;I00760;Fone de ouvido Sem Fio QCY T27;3;12986
+761;I00761;Mouse Redragon Wireless;2;16599
+762;I00762;Fone de Ouvido Profissional EDIFIER WH950NB;1;8990
+763;I00763;ACER Notebook Gamer Nitro;2;46040
+764;I00764;Projetor EPSON Powerlite Wide Screen;1;274213
+765;I00765;Fone de Ouvido Profissional EDIFIER WH950NB;3;8990
+766;I00766;Carregador Turbo Tipo-C 50w;4;539
+767;I00767;Projetor EPSON Powerlite Wide Screen;3;274213
+768;I00768;Samsung Galaxy A36;4;19791
+769;I00769;Película para iPhone 14Pro Anti impacto;2;518
+770;I00770;Samsung Galaxy Tab S6 Lite;3;179901
+771;I00771;Carregador Turbo USB-C 30W;3;499
+772;I00772;Fone de Ouvido Profissional EDIFIER WH950NB;1;8990
+773;I00773;Soundbar Tomate MTS-2017, Bivolt;1;7699
+774;I00774;Película para iPhone 14Pro Anti impacto;2;518
+775;I00775;Samsung Galaxy A36;4;19791
+776;I00776;Projetor EPSON Powerlite Wide Screen;1;274213
+777;I00777;"Monitor UHD Samsung 32""";1;162657
+778;I00778;Smart TV 32” Philco LED Roku TV;4;9490
+779;I00779;Smart TV 32” Philco LED Roku TV;1;9490
+780;I00780;Fone de ouvido Sem Fio QCY T27;3;12986
+781;I00781;Soundbar Samsung com 2.1 canais, Dolby Digital;2;10720
+782;I00782;"Smart TV LED 32""Samsung LED Tizen TV";3;10790
+783;I00783;"Monitor UHD Samsung 32""";1;162657
+784;I00784;Película para iPhone 14Pro Anti impacto;4;518
+785;I00785;Teclado Mecanico Fizz;2;1749
+786;I00786;Projetor Smart Epson EpiqVision, FULL HD;2;304999
+787;I00787;Soundbar Samsung com 2.1 canais, Dolby Digital;1;10720
+788;I00788;Projetor Smart Epson EpiqVision, FULL HD;4;304999
+789;I00789;ACER Notebook Gamer Nitro;2;46040
+790;I00790;Projetor EPSON Powerlite Wide Screen;2;274213
+791;I00791;Película para iPhone 14Pro Anti impacto;4;518
+792;I00792;Carregador Turbo Tipo-C 50w;3;539
+793;I00793;"Monitor UHD Samsung 32""";3;162657
+794;I00794;Carregador Turbo USB-C 30W;3;499
+795;I00795;Samsung Galaxy A36;3;19791
+796;I00796;Soundbar Tomate MTS-2017, Bivolt;4;7699
+797;I00797;Carregador Turbo USB-C 30W;4;499
+798;I00798;Carregador Turbo Tipo-C 50w;3;539
+799;I00799;Carregador Turbo Tipo-C 50w;2;539
+800;I00800;Projetor EPSON Powerlite Wide Screen;4;274213
+801;I00801;Película de Vidro 3D Galaxy A30s;3;179
+802;I00802;SSD Crucial 1TB NVMe M.2;2;4490
+803;I00803;Fone de Ouvido Profissional AKG K92;4;42899
+804;I00804;Mouse Redragon Wireless;4;16599
+805;I00805;Samsung Galaxy A36;2;19791
+806;I00806;Mouse Redragon Wireless;1;16599
+807;I00807;Carregador Turbo USB-C 30W;4;499
+808;I00808;Carregador Turbo Tipo-C 50w;3;539
+809;I00809;Mouse Redragon Wireless;1;16599
+810;I00810;SSD Crucial 1TB NVMe M.2;1;4490
+811;I00811;Smart TV 32” Philco LED Roku TV;1;9490
+812;I00812;Película de Vidro 3D Galaxy A30s;2;179
+813;I00813;SSD Crucial 1TB NVMe M.2;2;4490
+814;I00814;Fone de ouvido Sem Fio QCY T27;1;12986
+815;I00815;ACER Notebook Gamer Nitro;2;46040
+816;I00816;SSD Crucial 1TB NVMe M.2;4;4490
+817;I00817;SSD Crucial 1TB NVMe M.2;1;4490
+818;I00818;"Smart TV LED 32""Samsung LED Tizen TV";1;10790
+819;I00819;ACER Notebook Gamer Nitro;2;46040
+820;I00820;ACER Notebook Gamer Nitro;3;46040
+821;I00821;Carregador Turbo USB-C 30W;4;499
+822;I00822;Fone de Ouvido Sem Fio TWS, PHILIPS;2;12491
+823;I00823;Projetor EPSON Powerlite Wide Screen;1;274213
+824;I00824;"Monitor UHD Samsung 32""";4;162657
+825;I00825;Projetor EPSON Powerlite Wide Screen;3;274213
+826;I00826;Projetor Smart Epson EpiqVision, FULL HD;4;304999
+827;I00827;Mouse Redragon Wireless;2;16599
+828;I00828;ACER Notebook Gamer Nitro;4;46040
+829;I00829;Fone de Ouvido Profissional EDIFIER WH950NB;4;8990
+830;I00830;Soundbar Tomate MTS-2017, Bivolt;4;7699
+831;I00831;Película para iPhone 14Pro Anti impacto;1;518
+832;I00832;Samsung Galaxy Tab S6 Lite;2;179901
+833;I00833;Samsung Galaxy A36;3;19791
+834;I00834;Fone de Ouvido Profissional AKG K92;4;42899
+835;I00835;Carregador Turbo Tipo-C 50w;1;539
+836;I00836;Samsung Galaxy A36;4;19791
+837;I00837;Fone de Ouvido Profissional AKG K92;3;42899
+838;I00838;Projetor Smart Epson EpiqVision, FULL HD;2;304999
+839;I00839;"Monitor UHD Samsung 32""";3;162657
+840;I00840;Samsung Galaxy A36;3;19791
+841;I00841;Teclado Mecanico Fizz;1;1749
+842;I00842;Fone de Ouvido Profissional AKG K92;2;42899
+843;I00843;Soundbar Tomate MTS-2017, Bivolt;3;7699
+844;I00844;Smart TV 32” Philco LED Roku TV;4;9490
+845;I00845;SSD Crucial 1TB NVMe M.2;4;4490
+846;I00846;Mouse Redragon Wireless;3;16599
+847;I00847;Soundbar Samsung com 2.1 canais, Dolby Digital;3;10720
+848;I00848;Samsung Galaxy A36;3;19791
+849;I00849;Carregador Turbo Tipo-C 50w;2;539
+850;I00850;Projetor EPSON Powerlite Wide Screen;2;274213
+851;I00851;Carregador Turbo Tipo-C 50w;3;539
+852;I00852;"Monitor UHD Samsung 32""";1;162657
+853;I00853;Carregador Turbo Tipo-C 50w;1;539
+854;I00854;Fone de ouvido Sem Fio QCY T27;3;12986
+855;I00855;Soundbar Tomate MTS-2017, Bivolt;1;7699
+856;I00856;Projetor Smart Epson EpiqVision, FULL HD;2;304999
+857;I00857;"Smart TV LED 32""Samsung LED Tizen TV";3;10790
+858;I00858;Projetor Smart Epson EpiqVision, FULL HD;3;304999
+859;I00859;Samsung Galaxy Tab S6 Lite;3;179901
+860;I00860;Fone de Ouvido Profissional AKG K92;1;42899
+861;I00861;"Monitor UHD Samsung 32""";2;162657
+862;I00862;Fone de Ouvido Profissional EDIFIER WH950NB;3;8990
+863;I00863;Fone de Ouvido Profissional AKG K92;4;42899
+864;I00864;Fone de Ouvido Profissional EDIFIER WH950NB;1;8990
+865;I00865;Projetor EPSON Powerlite Wide Screen;3;274213
+866;I00866;ACER Notebook Gamer Nitro;4;46040
+867;I00867;Carregador Turbo Tipo-C 50w;4;539
+868;I00868;Samsung Galaxy A36;2;19791
+869;I00869;ACER Notebook Gamer Nitro;4;46040
+870;I00870;Smart TV 32” Philco LED Roku TV;3;9490
+871;I00871;Fone de Ouvido Profissional AKG K92;2;42899
+872;I00872;Teclado Mecanico Fizz;3;1749
+873;I00873;Projetor Smart Epson EpiqVision, FULL HD;2;304999
+874;I00874;Fone de ouvido Sem Fio QCY T27;2;12986
+875;I00875;Fone de ouvido Sem Fio QCY T27;4;12986
+876;I00876;Película para iPhone 14Pro Anti impacto;1;518
+877;I00877;Mouse Redragon Wireless;3;16599
+878;I00878;Mouse Redragon Wireless;4;16599
+879;I00879;Carregador Turbo Tipo-C 50w;3;539
+880;I00880;Fone de Ouvido Profissional EDIFIER WH950NB;2;8990
+881;I00881;Soundbar Samsung com 2.1 canais, Dolby Digital;2;10720
+882;I00882;ACER Notebook Gamer Nitro;3;46040
+883;I00883;Película de Vidro 3D Galaxy A30s;1;179
+884;I00884;Samsung Galaxy A36;4;19791
+885;I00885;Soundbar Samsung com 2.1 canais, Dolby Digital;1;10720
+886;I00886;"Smart TV LED 32""Samsung LED Tizen TV";4;10790
+887;I00887;Teclado Mecanico Fizz;4;1749
+888;I00888;SSD Crucial 1TB NVMe M.2;3;4490
+889;I00889;Soundbar Samsung com 2.1 canais, Dolby Digital;2;10720
+890;I00890;Teclado Mecanico Fizz;1;1749
+891;I00891;Projetor Smart Epson EpiqVision, FULL HD;2;304999
+892;I00892;Soundbar Samsung com 2.1 canais, Dolby Digital;4;10720
+893;I00893;Smart TV 32” Philco LED Roku TV;1;9490
+894;I00894;Película para iPhone 14Pro Anti impacto;3;518
+895;I00895;Fone de Ouvido Sem Fio TWS, PHILIPS;2;12491
+896;I00896;Fone de ouvido Sem Fio QCY T27;2;12986
+897;I00897;Samsung Galaxy Tab S6 Lite;1;179901
+898;I00898;Samsung Galaxy A36;1;19791
+899;I00899;Samsung Galaxy Tab S6 Lite;1;179901
+900;I00900;Soundbar Tomate MTS-2017, Bivolt;1;7699
+901;I00901;Projetor Smart Epson EpiqVision, FULL HD;2;304999
+902;I00902;Mouse Redragon Wireless;1;16599
+903;I00903;"Monitor UHD Samsung 32""";3;162657
+904;I00904;Mouse Redragon Wireless;1;16599
+905;I00905;ACER Notebook Gamer Nitro;3;46040
+906;I00906;Fone de Ouvido Profissional EDIFIER WH950NB;1;8990
+907;I00907;Fone de Ouvido Sem Fio TWS, PHILIPS;1;12491
+908;I00908;Projetor EPSON Powerlite Wide Screen;1;274213
+909;I00909;Fone de Ouvido Sem Fio TWS, PHILIPS;2;12491
+910;I00910;Projetor Smart Epson EpiqVision, FULL HD;1;304999
+911;I00911;Teclado Mecanico Fizz;2;1749
+912;I00912;Samsung Galaxy A36;4;19791
+913;I00913;Projetor Smart Epson EpiqVision, FULL HD;4;304999
+914;I00914;Fone de Ouvido Profissional AKG K92;4;42899
+915;I00915;ACER Notebook Gamer Nitro;3;46040
+916;I00916;Fone de Ouvido Sem Fio TWS, PHILIPS;3;12491
+917;I00917;Soundbar Tomate MTS-2017, Bivolt;4;7699
+918;I00918;Samsung Galaxy A36;4;19791
+919;I00919;Mouse Redragon Wireless;2;16599
+920;I00920;Projetor Smart Epson EpiqVision, FULL HD;3;304999
+921;I00921;Soundbar Samsung com 2.1 canais, Dolby Digital;1;10720
+922;I00922;Soundbar Samsung com 2.1 canais, Dolby Digital;2;10720
+923;I00923;Samsung Galaxy A36;4;19791
+924;I00924;Smart TV 32” Philco LED Roku TV;4;9490
+925;I00925;Projetor Smart Epson EpiqVision, FULL HD;2;304999
+926;I00926;Smart TV 32” Philco LED Roku TV;4;9490
+927;I00927;Mouse Redragon Wireless;4;16599
+928;I00928;Smart TV 32” Philco LED Roku TV;3;9490
+929;I00929;Soundbar Samsung com 2.1 canais, Dolby Digital;3;10720
+930;I00930;Película de Vidro 3D Galaxy A30s;3;179
+931;I00931;Smart TV 32” Philco LED Roku TV;2;9490
+932;I00932;"Monitor UHD Samsung 32""";4;162657
+933;I00933;Mouse Redragon Wireless;1;16599
+934;I00934;SSD Crucial 1TB NVMe M.2;3;4490
+935;I00935;Samsung Galaxy A36;2;19791
+936;I00936;SSD Crucial 1TB NVMe M.2;4;4490
+937;I00937;Carregador Turbo Tipo-C 50w;4;539
+938;I00938;Película para iPhone 14Pro Anti impacto;3;518
+939;I00939;Película de Vidro 3D Galaxy A30s;2;179
+940;I00940;Carregador Turbo Tipo-C 50w;4;539
+941;I00941;Teclado Mecanico Fizz;3;1749
+942;I00942;Fone de ouvido Sem Fio QCY T27;1;12986
+943;I00943;Carregador Turbo USB-C 30W;4;499
+944;I00944;Carregador Turbo Tipo-C 50w;3;539
+945;I00945;Película de Vidro 3D Galaxy A30s;2;179
+946;I00946;Samsung Galaxy A36;1;19791
+947;I00947;Película para iPhone 14Pro Anti impacto;1;518
+948;I00948;Smart TV 32” Philco LED Roku TV;1;9490
+949;I00949;Projetor Smart Epson EpiqVision, FULL HD;2;304999
+950;I00950;Mouse Redragon Wireless;3;16599
+951;I00951;"Smart TV LED 32""Samsung LED Tizen TV";2;10790
+952;I00952;Mouse Redragon Wireless;3;16599
+953;I00953;Mouse Redragon Wireless;3;16599
+954;I00954;Carregador Turbo Tipo-C 50w;3;539
+955;I00955;Smart TV 32” Philco LED Roku TV;4;9490
+956;I00956;Smart TV 32” Philco LED Roku TV;3;9490
+957;I00957;"Monitor UHD Samsung 32""";3;162657
+958;I00958;"Smart TV LED 32""Samsung LED Tizen TV";3;10790
+959;I00959;"Smart TV LED 32""Samsung LED Tizen TV";4;10790
+960;I00960;Soundbar Samsung com 2.1 canais, Dolby Digital;3;10720
+961;I00961;Samsung Galaxy A36;1;19791
+962;I00962;Soundbar Tomate MTS-2017, Bivolt;2;7699
+963;I00963;Soundbar Samsung com 2.1 canais, Dolby Digital;1;10720
+964;I00964;Fone de Ouvido Profissional EDIFIER WH950NB;3;8990
+965;I00965;Mouse Redragon Wireless;2;16599
+966;I00966;Soundbar Samsung com 2.1 canais, Dolby Digital;2;10720
+967;I00967;SSD Crucial 1TB NVMe M.2;3;4490
+968;I00968;"Monitor UHD Samsung 32""";3;162657
+969;I00969;Carregador Turbo USB-C 30W;4;499
+970;I00970;SSD Crucial 1TB NVMe M.2;2;4490
+971;I00971;Película de Vidro 3D Galaxy A30s;3;179
+972;I00972;Carregador Turbo Tipo-C 50w;2;539
+973;I00973;Fone de Ouvido Profissional AKG K92;4;42899
+974;I00974;Fone de Ouvido Sem Fio TWS, PHILIPS;4;12491
+975;I00975;Fone de ouvido Sem Fio QCY T27;1;12986
+976;I00976;Projetor Smart Epson EpiqVision, FULL HD;3;304999
+977;I00977;"Smart TV LED 32""Samsung LED Tizen TV";3;10790
+978;I00978;Fone de Ouvido Profissional AKG K92;4;42899
+979;I00979;ACER Notebook Gamer Nitro;2;46040
+980;I00980;Projetor EPSON Powerlite Wide Screen;4;274213
+981;I00981;Mouse Redragon Wireless;4;16599
+982;I00982;Smart TV 32” Philco LED Roku TV;4;9490
+983;I00983;Carregador Turbo USB-C 30W;4;499
+984;I00984;"Smart TV LED 32""Samsung LED Tizen TV";1;10790
+985;I00985;Teclado Mecanico Fizz;4;1749
+986;I00986;Samsung Galaxy A36;3;19791
+987;I00987;ACER Notebook Gamer Nitro;2;46040
+988;I00988;ACER Notebook Gamer Nitro;3;46040
+989;I00989;Carregador Turbo USB-C 30W;3;499
+990;I00990;ACER Notebook Gamer Nitro;1;46040
+991;I00991;Soundbar Samsung com 2.1 canais, Dolby Digital;1;10720
+992;I00992;Película para iPhone 14Pro Anti impacto;4;518
+993;I00993;Smart TV 32” Philco LED Roku TV;4;9490
+994;I00994;ACER Notebook Gamer Nitro;2;46040
+995;I00995;Película de Vidro 3D Galaxy A30s;3;179
+996;I00996;Smart TV 32” Philco LED Roku TV;2;9490
+997;I00997;Samsung Galaxy A36;1;19791
+998;I00998;Película de Vidro 3D Galaxy A30s;1;179
+999;I00999;Projetor EPSON Powerlite Wide Screen;2;274213
+1000;I01000;Fone de Ouvido Profissional AKG K92;3;42899
+1001;I01001;Smart TV 32” Philco LED Roku TV;3;9490
+1002;I01002;Samsung Galaxy Tab S6 Lite;4;179901
+1003;I01003;Soundbar Samsung com 2.1 canais, Dolby Digital;1;10720
+1004;I01004;Soundbar Samsung com 2.1 canais, Dolby Digital;3;10720
+1005;I01005;Projetor Smart Epson EpiqVision, FULL HD;3;304999
+1006;I01006;Smart TV 32” Philco LED Roku TV;1;9490
+1007;I01007;Fone de Ouvido Sem Fio TWS, PHILIPS;2;12491
+1008;I01008;"Smart TV LED 32""Samsung LED Tizen TV";4;10790
+1009;I01009;Fone de Ouvido Profissional EDIFIER WH950NB;4;8990
+1010;I01010;Smart TV 32” Philco LED Roku TV;4;9490
+1011;I01011;Projetor EPSON Powerlite Wide Screen;2;274213
+1012;I01012;Samsung Galaxy Tab S6 Lite;2;179901
+1013;I01013;Fone de Ouvido Profissional EDIFIER WH950NB;1;8990
+1014;I01014;Samsung Galaxy Tab S6 Lite;2;179901
+1015;I01015;Projetor EPSON Powerlite Wide Screen;2;274213
+1016;I01016;Samsung Galaxy A36;3;19791
+1017;I01017;Película de Vidro 3D Galaxy A30s;3;179
+1018;I01018;Soundbar Tomate MTS-2017, Bivolt;1;7699
+1019;I01019;Projetor EPSON Powerlite Wide Screen;2;274213
+1020;I01020;Soundbar Samsung com 2.1 canais, Dolby Digital;1;10720
+1021;I01021;Fone de Ouvido Profissional AKG K92;4;42899
+1022;I01022;Fone de Ouvido Profissional EDIFIER WH950NB;2;8990
+1023;I01023;Samsung Galaxy Tab S6 Lite;4;179901
+1024;I01024;Carregador Turbo Tipo-C 50w;2;539
+1025;I01025;Smart TV 32” Philco LED Roku TV;2;9490
+1026;I01026;Projetor Smart Epson EpiqVision, FULL HD;1;304999
+1027;I01027;Fone de Ouvido Profissional AKG K92;2;42899
+1028;I01028;Soundbar Tomate MTS-2017, Bivolt;4;7699
+1029;I01029;Fone de Ouvido Profissional AKG K92;3;42899
+1030;I01030;Soundbar Samsung com 2.1 canais, Dolby Digital;1;10720
+1031;I01031;ACER Notebook Gamer Nitro;2;46040
+1032;I01032;"Monitor UHD Samsung 32""";1;162657
+1033;I01033;Película de Vidro 3D Galaxy A30s;2;179
+1034;I01034;Smart TV 32” Philco LED Roku TV;2;9490
+1035;I01035;Projetor Smart Epson EpiqVision, FULL HD;2;304999
+1036;I01036;Película para iPhone 14Pro Anti impacto;4;518
+1037;I01037;Soundbar Tomate MTS-2017, Bivolt;1;7699
+1038;I01038;Fone de Ouvido Profissional AKG K92;3;42899
+1039;I01039;Película para iPhone 14Pro Anti impacto;1;518
+1040;I01040;Teclado Mecanico Fizz;2;1749
+1041;I01041;"Smart TV LED 32""Samsung LED Tizen TV";3;10790
+1042;I01042;Película de Vidro 3D Galaxy A30s;1;179
+1043;I01043;Soundbar Tomate MTS-2017, Bivolt;4;7699
+1044;I01044;Carregador Turbo USB-C 30W;3;499
+1045;I01045;Mouse Redragon Wireless;3;16599
+1046;I01046;"Smart TV LED 32""Samsung LED Tizen TV";4;10790
+1047;I01047;Fone de ouvido Sem Fio QCY T27;1;12986
+1048;I01048;ACER Notebook Gamer Nitro;3;46040
+1049;I01049;Fone de Ouvido Sem Fio TWS, PHILIPS;1;12491
+1050;I01050;Projetor EPSON Powerlite Wide Screen;1;274213
+1051;I01051;"Monitor UHD Samsung 32""";2;162657
+1052;I01052;Fone de Ouvido Profissional AKG K92;1;42899
+1053;I01053;Samsung Galaxy A36;4;19791
+1054;I01054;SSD Crucial 1TB NVMe M.2;4;4490
+1055;I01055;SSD Crucial 1TB NVMe M.2;4;4490
+1056;I01056;Fone de Ouvido Profissional AKG K92;3;42899
+1057;I01057;Teclado Mecanico Fizz;3;1749
+1058;I01058;Projetor EPSON Powerlite Wide Screen;2;274213
+1059;I01059;Samsung Galaxy Tab S6 Lite;1;179901
+1060;I01060;Soundbar Tomate MTS-2017, Bivolt;3;7699
+1061;I01061;"Smart TV LED 32""Samsung LED Tizen TV";4;10790
+1062;I01062;Projetor EPSON Powerlite Wide Screen;1;274213
+1063;I01063;Fone de Ouvido Profissional AKG K92;4;42899
+1064;I01064;Projetor EPSON Powerlite Wide Screen;2;274213
+1065;I01065;Mouse Redragon Wireless;4;16599
+1066;I01066;Carregador Turbo Tipo-C 50w;4;539
+1067;I01067;Película para iPhone 14Pro Anti impacto;2;518
+1068;I01068;Carregador Turbo USB-C 30W;2;499
+1069;I01069;Samsung Galaxy A36;1;19791
+1070;I01070;SSD Crucial 1TB NVMe M.2;3;4490
+1071;I01071;"Monitor UHD Samsung 32""";1;162657
+1072;I01072;Fone de Ouvido Profissional AKG K92;4;42899
+1073;I01073;SSD Crucial 1TB NVMe M.2;2;4490
+1074;I01074;"Smart TV LED 32""Samsung LED Tizen TV";1;10790
+1075;I01075;ACER Notebook Gamer Nitro;4;46040
+1076;I01076;Projetor Smart Epson EpiqVision, FULL HD;2;304999
+1077;I01077;Carregador Turbo USB-C 30W;1;499
+1078;I01078;Película para iPhone 14Pro Anti impacto;3;518
+1079;I01079;Smart TV 32” Philco LED Roku TV;1;9490
+1080;I01080;Fone de Ouvido Sem Fio TWS, PHILIPS;4;12491
+1081;I01081;Projetor EPSON Powerlite Wide Screen;2;274213
+1082;I01082;Soundbar Tomate MTS-2017, Bivolt;1;7699
+1083;I01083;Teclado Mecanico Fizz;4;1749
+1084;I01084;Soundbar Samsung com 2.1 canais, Dolby Digital;2;10720
+1085;I01085;Película de Vidro 3D Galaxy A30s;4;179
+1086;I01086;SSD Crucial 1TB NVMe M.2;4;4490
+1087;I01087;"Smart TV LED 32""Samsung LED Tizen TV";4;10790
+1088;I01088;Película para iPhone 14Pro Anti impacto;2;518
+1089;I01089;Fone de ouvido Sem Fio QCY T27;2;12986
+1090;I01090;Película de Vidro 3D Galaxy A30s;1;179
+1091;I01091;Carregador Turbo Tipo-C 50w;4;539
+1092;I01092;Soundbar Tomate MTS-2017, Bivolt;1;7699
+1093;I01093;Fone de Ouvido Profissional EDIFIER WH950NB;1;8990
+1094;I01094;Carregador Turbo USB-C 30W;2;499
+1095;I01095;Fone de Ouvido Sem Fio TWS, PHILIPS;1;12491
+1096;I01096;Soundbar Samsung com 2.1 canais, Dolby Digital;4;10720
+1097;I01097;Projetor EPSON Powerlite Wide Screen;3;274213
+1098;I01098;Fone de ouvido Sem Fio QCY T27;4;12986
+1099;I01099;Soundbar Tomate MTS-2017, Bivolt;2;7699
+1100;I01100;Mouse Redragon Wireless;2;16599
+1101;I01101;Película de Vidro 3D Galaxy A30s;2;179
+1102;I01102;Carregador Turbo Tipo-C 50w;1;539
+1103;I01103;Soundbar Samsung com 2.1 canais, Dolby Digital;2;10720
+1104;I01104;Samsung Galaxy A36;2;19791
+1105;I01105;Fone de Ouvido Sem Fio TWS, PHILIPS;2;12491
+1106;I01106;Fone de Ouvido Profissional AKG K92;1;42899
+1107;I01107;Fone de Ouvido Sem Fio TWS, PHILIPS;1;12491
+1108;I01108;Samsung Galaxy A36;1;19791
+1109;I01109;ACER Notebook Gamer Nitro;4;46040
+1110;I01110;Fone de Ouvido Sem Fio TWS, PHILIPS;3;12491
+1111;I01111;Película de Vidro 3D Galaxy A30s;2;179
+1112;I01112;Carregador Turbo Tipo-C 50w;1;539
+1113;I01113;Projetor EPSON Powerlite Wide Screen;1;274213
+1114;I01114;Fone de Ouvido Sem Fio TWS, PHILIPS;2;12491
+1115;I01115;Samsung Galaxy Tab S6 Lite;1;179901
+1116;I01116;"Smart TV LED 32""Samsung LED Tizen TV";2;10790
+1117;I01117;ACER Notebook Gamer Nitro;4;46040
+1118;I01118;Carregador Turbo USB-C 30W;1;499
+1119;I01119;Teclado Mecanico Fizz;4;1749
+1120;I01120;Fone de Ouvido Sem Fio TWS, PHILIPS;4;12491
+1121;I01121;Smart TV 32” Philco LED Roku TV;1;9490
+1122;I01122;Película de Vidro 3D Galaxy A30s;4;179
+1123;I01123;Soundbar Tomate MTS-2017, Bivolt;4;7699
+1124;I01124;Mouse Redragon Wireless;3;16599
+1125;I01125;SSD Crucial 1TB NVMe M.2;4;4490
+1126;I01126;Samsung Galaxy Tab S6 Lite;2;179901
+1127;I01127;Fone de ouvido Sem Fio QCY T27;3;12986
+1128;I01128;Carregador Turbo Tipo-C 50w;3;539
+1129;I01129;Soundbar Tomate MTS-2017, Bivolt;2;7699
+1130;I01130;"Smart TV LED 32""Samsung LED Tizen TV";2;10790
+1131;I01131;Fone de ouvido Sem Fio QCY T27;3;12986
+1132;I01132;Película para iPhone 14Pro Anti impacto;2;518
+1133;I01133;Película para iPhone 14Pro Anti impacto;1;518
+1134;I01134;"Smart TV LED 32""Samsung LED Tizen TV";3;10790
+1135;I01135;Projetor EPSON Powerlite Wide Screen;4;274213
+1136;I01136;SSD Crucial 1TB NVMe M.2;3;4490
+1137;I01137;Carregador Turbo Tipo-C 50w;2;539
+1138;I01138;Película de Vidro 3D Galaxy A30s;4;179
+1139;I01139;Carregador Turbo USB-C 30W;2;499
+1140;I01140;Teclado Mecanico Fizz;1;1749
+1141;I01141;Película de Vidro 3D Galaxy A30s;3;179
+1142;I01142;"Monitor UHD Samsung 32""";3;162657
+1143;I01143;Película para iPhone 14Pro Anti impacto;4;518
+1144;I01144;Soundbar Tomate MTS-2017, Bivolt;1;7699
+1145;I01145;ACER Notebook Gamer Nitro;1;46040
+1146;I01146;"Smart TV LED 32""Samsung LED Tizen TV";2;10790
+1147;I01147;Smart TV 32” Philco LED Roku TV;2;9490
+1148;I01148;Carregador Turbo USB-C 30W;2;499
+1149;I01149;"Smart TV LED 32""Samsung LED Tizen TV";2;10790
+1150;I01150;Fone de ouvido Sem Fio QCY T27;3;12986
+1151;I01151;Mouse Redragon Wireless;4;16599
+1152;I01152;Teclado Mecanico Fizz;1;1749
+1153;I01153;Fone de Ouvido Sem Fio TWS, PHILIPS;1;12491
+1154;I01154;Película para iPhone 14Pro Anti impacto;1;518
+1155;I01155;Fone de Ouvido Profissional EDIFIER WH950NB;2;8990
+1156;I01156;Carregador Turbo USB-C 30W;4;499
+1157;I01157;Projetor EPSON Powerlite Wide Screen;3;274213
+1158;I01158;Película de Vidro 3D Galaxy A30s;1;179
+1159;I01159;Samsung Galaxy A36;4;19791
+1160;I01160;Fone de Ouvido Profissional EDIFIER WH950NB;4;8990
+1161;I01161;Fone de Ouvido Profissional AKG K92;1;42899
+1162;I01162;ACER Notebook Gamer Nitro;3;46040
+1163;I01163;Samsung Galaxy A36;3;19791
+1164;I01164;Projetor Smart Epson EpiqVision, FULL HD;4;304999
+1165;I01165;Smart TV 32” Philco LED Roku TV;2;9490
+1166;I01166;Projetor EPSON Powerlite Wide Screen;1;274213
+1167;I01167;Projetor EPSON Powerlite Wide Screen;4;274213
+1168;I01168;Carregador Turbo Tipo-C 50w;3;539
+1169;I01169;Película de Vidro 3D Galaxy A30s;2;179
+1170;I01170;Fone de Ouvido Profissional AKG K92;1;42899
+1171;I01171;Mouse Redragon Wireless;1;16599
+1172;I01172;Fone de Ouvido Sem Fio TWS, PHILIPS;1;12491
+1173;I01173;Teclado Mecanico Fizz;1;1749
+1174;I01174;Fone de ouvido Sem Fio QCY T27;4;12986
+1175;I01175;ACER Notebook Gamer Nitro;1;46040
+1176;I01176;Projetor EPSON Powerlite Wide Screen;3;274213
+1177;I01177;SSD Crucial 1TB NVMe M.2;4;4490
+1178;I01178;Teclado Mecanico Fizz;1;1749
+1179;I01179;Smart TV 32” Philco LED Roku TV;2;9490
+1180;I01180;Samsung Galaxy A36;3;19791
+1181;I01181;Projetor EPSON Powerlite Wide Screen;3;274213
+1182;I01182;"Monitor UHD Samsung 32""";1;162657
+1183;I01183;Fone de Ouvido Profissional EDIFIER WH950NB;2;8990
+1184;I01184;Teclado Mecanico Fizz;3;1749
+1185;I01185;Fone de Ouvido Sem Fio TWS, PHILIPS;2;12491
+1186;I01186;Projetor Smart Epson EpiqVision, FULL HD;4;304999
+1187;I01187;Teclado Mecanico Fizz;2;1749
+1188;I01188;"Monitor UHD Samsung 32""";2;162657
+1189;I01189;Fone de Ouvido Profissional EDIFIER WH950NB;4;8990
+1190;I01190;Película de Vidro 3D Galaxy A30s;4;179
+1191;I01191;Smart TV 32” Philco LED Roku TV;3;9490
+1192;I01192;Soundbar Tomate MTS-2017, Bivolt;4;7699
+1193;I01193;Smart TV 32” Philco LED Roku TV;3;9490
+1194;I01194;"Smart TV LED 32""Samsung LED Tizen TV";1;10790
+1195;I01195;Fone de ouvido Sem Fio QCY T27;1;12986
+1196;I01196;Projetor Smart Epson EpiqVision, FULL HD;3;304999
+1197;I01197;Projetor EPSON Powerlite Wide Screen;4;274213
+1198;I01198;Soundbar Samsung com 2.1 canais, Dolby Digital;4;10720
+1199;I01199;Smart TV 32” Philco LED Roku TV;3;9490
+1200;I01200;Smart TV 32” Philco LED Roku TV;4;9490
+1201;I01201;Fone de Ouvido Profissional AKG K92;1;42899
+1202;I01202;"Monitor UHD Samsung 32""";1;162657
+1203;I01203;Fone de Ouvido Profissional EDIFIER WH950NB;4;8990
+1204;I01204;Soundbar Samsung com 2.1 canais, Dolby Digital;1;10720
+1205;I01205;Mouse Redragon Wireless;1;16599
+1206;I01206;Teclado Mecanico Fizz;4;1749
+1207;I01207;Fone de Ouvido Sem Fio TWS, PHILIPS;3;12491
+1208;I01208;Projetor Smart Epson EpiqVision, FULL HD;3;304999
+1209;I01209;Smart TV 32” Philco LED Roku TV;4;9490
+1210;I01210;Fone de Ouvido Profissional EDIFIER WH950NB;4;8990
+1211;I01211;Smart TV 32” Philco LED Roku TV;2;9490
+1212;I01212;Carregador Turbo Tipo-C 50w;3;539
+1213;I01213;Teclado Mecanico Fizz;4;1749
+1214;I01214;SSD Crucial 1TB NVMe M.2;4;4490
+1215;I01215;Projetor Smart Epson EpiqVision, FULL HD;4;304999
+1216;I01216;Película de Vidro 3D Galaxy A30s;3;179
+1217;I01217;Teclado Mecanico Fizz;3;1749
+1218;I01218;"Monitor UHD Samsung 32""";1;162657
+1219;I01219;Samsung Galaxy A36;4;19791
+1220;I01220;Carregador Turbo Tipo-C 50w;2;539
+1221;I01221;Fone de Ouvido Profissional EDIFIER WH950NB;1;8990
+1222;I01222;ACER Notebook Gamer Nitro;1;46040
+1223;I01223;"Smart TV LED 32""Samsung LED Tizen TV";4;10790
+1224;I01224;Película para iPhone 14Pro Anti impacto;1;518
+1225;I01225;Smart TV 32” Philco LED Roku TV;2;9490
+1226;I01226;Projetor EPSON Powerlite Wide Screen;2;274213
+1227;I01227;Fone de Ouvido Profissional AKG K92;2;42899
+1228;I01228;Samsung Galaxy A36;4;19791
+1229;I01229;Soundbar Samsung com 2.1 canais, Dolby Digital;3;10720
+1230;I01230;Projetor Smart Epson EpiqVision, FULL HD;1;304999
+1231;I01231;Projetor Smart Epson EpiqVision, FULL HD;3;304999
+1232;I01232;"Monitor UHD Samsung 32""";3;162657
+1233;I01233;Soundbar Samsung com 2.1 canais, Dolby Digital;2;10720
+1234;I01234;Soundbar Tomate MTS-2017, Bivolt;4;7699
+1235;I01235;Fone de Ouvido Profissional AKG K92;2;42899
+1236;I01236;Smart TV 32” Philco LED Roku TV;1;9490
+1237;I01237;Samsung Galaxy Tab S6 Lite;1;179901
+1238;I01238;SSD Crucial 1TB NVMe M.2;1;4490
+1239;I01239;Soundbar Samsung com 2.1 canais, Dolby Digital;2;10720
+1240;I01240;Carregador Turbo Tipo-C 50w;3;539
+1241;I01241;Carregador Turbo USB-C 30W;4;499
+1242;I01242;Projetor Smart Epson EpiqVision, FULL HD;3;304999
+1243;I01243;Película de Vidro 3D Galaxy A30s;4;179
+1244;I01244;Carregador Turbo Tipo-C 50w;1;539
+1245;I01245;Projetor Smart Epson EpiqVision, FULL HD;4;304999
+1246;I01246;Mouse Redragon Wireless;4;16599
+1247;I01247;Carregador Turbo Tipo-C 50w;3;539
+1248;I01248;Fone de Ouvido Sem Fio TWS, PHILIPS;3;12491
+1249;I01249;Projetor EPSON Powerlite Wide Screen;2;274213
+1250;I01250;Samsung Galaxy A36;1;19791
+1251;I01251;ACER Notebook Gamer Nitro;2;46040
+1252;I01252;Samsung Galaxy Tab S6 Lite;2;179901
+1253;I01253;ACER Notebook Gamer Nitro;1;46040
+1254;I01254;Carregador Turbo Tipo-C 50w;4;539
+1255;I01255;Samsung Galaxy Tab S6 Lite;3;179901
+1256;I01256;Carregador Turbo Tipo-C 50w;2;539
+1257;I01257;Película para iPhone 14Pro Anti impacto;3;518
+1258;I01258;"Monitor UHD Samsung 32""";2;162657
+1259;I01259;Película para iPhone 14Pro Anti impacto;1;518
+1260;I01260;Película de Vidro 3D Galaxy A30s;1;179
+1261;I01261;Projetor EPSON Powerlite Wide Screen;4;274213
+1262;I01262;Soundbar Tomate MTS-2017, Bivolt;4;7699
+1263;I01263;Smart TV 32” Philco LED Roku TV;4;9490
+1264;I01264;Fone de ouvido Sem Fio QCY T27;2;12986
+1265;I01265;Projetor Smart Epson EpiqVision, FULL HD;3;304999
+1266;I01266;"Smart TV LED 32""Samsung LED Tizen TV";4;10790
+1267;I01267;Fone de Ouvido Sem Fio TWS, PHILIPS;3;12491
+1268;I01268;Fone de ouvido Sem Fio QCY T27;4;12986
+1269;I01269;Projetor EPSON Powerlite Wide Screen;4;274213
+1270;I01270;Teclado Mecanico Fizz;1;1749
+1271;I01271;Película de Vidro 3D Galaxy A30s;1;179
+1272;I01272;Smart TV 32” Philco LED Roku TV;1;9490
+1273;I01273;Fone de Ouvido Profissional AKG K92;2;42899
+1274;I01274;Mouse Redragon Wireless;3;16599
+1275;I01275;Fone de Ouvido Profissional AKG K92;4;42899
+1276;I01276;SSD Crucial 1TB NVMe M.2;4;4490
+1277;I01277;Soundbar Tomate MTS-2017, Bivolt;3;7699
+1278;I01278;Samsung Galaxy A36;1;19791
+1279;I01279;ACER Notebook Gamer Nitro;1;46040
+1280;I01280;"Monitor UHD Samsung 32""";3;162657
+1281;I01281;"Monitor UHD Samsung 32""";3;162657
+1282;I01282;"Monitor UHD Samsung 32""";1;162657
+1283;I01283;Fone de Ouvido Profissional EDIFIER WH950NB;2;8990
+1284;I01284;Fone de ouvido Sem Fio QCY T27;1;12986
+1285;I01285;Fone de Ouvido Profissional EDIFIER WH950NB;4;8990
+1286;I01286;Película de Vidro 3D Galaxy A30s;3;179
+1287;I01287;"Monitor UHD Samsung 32""";3;162657
+1288;I01288;Carregador Turbo USB-C 30W;3;499
+1289;I01289;Soundbar Tomate MTS-2017, Bivolt;3;7699
+1290;I01290;Projetor EPSON Powerlite Wide Screen;3;274213
+1291;I01291;Projetor EPSON Powerlite Wide Screen;2;274213
+1292;I01292;Smart TV 32” Philco LED Roku TV;2;9490
+1293;I01293;Carregador Turbo Tipo-C 50w;2;539
+1294;I01294;Soundbar Samsung com 2.1 canais, Dolby Digital;1;10720
+1295;I01295;Fone de Ouvido Profissional AKG K92;1;42899
+1296;I01296;Película de Vidro 3D Galaxy A30s;3;179
+1297;I01297;Película para iPhone 14Pro Anti impacto;3;518
+1298;I01298;SSD Crucial 1TB NVMe M.2;4;4490
+1299;I01299;Película para iPhone 14Pro Anti impacto;4;518
+1300;I01300;Carregador Turbo USB-C 30W;3;499
+1301;I01301;Soundbar Samsung com 2.1 canais, Dolby Digital;2;10720
+1302;I01302;Fone de Ouvido Sem Fio TWS, PHILIPS;3;12491
+1303;I01303;Fone de Ouvido Profissional AKG K92;2;42899
+1304;I01304;Fone de Ouvido Profissional EDIFIER WH950NB;3;8990
+1305;I01305;Carregador Turbo USB-C 30W;1;499
+1306;I01306;Teclado Mecanico Fizz;4;1749
+1307;I01307;Carregador Turbo Tipo-C 50w;3;539
+1308;I01308;Projetor Smart Epson EpiqVision, FULL HD;1;304999
+1309;I01309;"Monitor UHD Samsung 32""";2;162657
+1310;I01310;Projetor EPSON Powerlite Wide Screen;3;274213
+1311;I01311;Fone de Ouvido Profissional EDIFIER WH950NB;3;8990
+1312;I01312;Carregador Turbo USB-C 30W;3;499
+1313;I01313;Carregador Turbo Tipo-C 50w;3;539
+1314;I01314;Fone de Ouvido Profissional AKG K92;1;42899
+1315;I01315;Fone de ouvido Sem Fio QCY T27;2;12986
+1316;I01316;Smart TV 32” Philco LED Roku TV;3;9490
+1317;I01317;Smart TV 32” Philco LED Roku TV;4;9490
+1318;I01318;Película de Vidro 3D Galaxy A30s;1;179
+1319;I01319;Carregador Turbo Tipo-C 50w;2;539
+1320;I01320;Película de Vidro 3D Galaxy A30s;4;179
+1321;I01321;Mouse Redragon Wireless;4;16599
+1322;I01322;Teclado Mecanico Fizz;3;1749
+1323;I01323;Fone de ouvido Sem Fio QCY T27;3;12986
+1324;I01324;Fone de Ouvido Profissional AKG K92;2;42899
+1325;I01325;Smart TV 32” Philco LED Roku TV;4;9490
+1326;I01326;Teclado Mecanico Fizz;1;1749
+1327;I01327;Película de Vidro 3D Galaxy A30s;3;179
+1328;I01328;ACER Notebook Gamer Nitro;4;46040
+1329;I01329;Fone de ouvido Sem Fio QCY T27;2;12986
+1330;I01330;Fone de Ouvido Profissional AKG K92;1;42899
+1331;I01331;SSD Crucial 1TB NVMe M.2;2;4490
+1332;I01332;Fone de Ouvido Sem Fio TWS, PHILIPS;3;12491
+1333;I01333;"Monitor UHD Samsung 32""";3;162657
+1334;I01334;Mouse Redragon Wireless;4;16599
+1335;I01335;Fone de Ouvido Profissional AKG K92;4;42899
+1336;I01336;Samsung Galaxy A36;1;19791
+1337;I01337;Samsung Galaxy A36;1;19791
+1338;I01338;Mouse Redragon Wireless;4;16599
+1339;I01339;Fone de ouvido Sem Fio QCY T27;3;12986
+1340;I01340;Fone de Ouvido Profissional AKG K92;4;42899
+1341;I01341;Película para iPhone 14Pro Anti impacto;4;518
+1342;I01342;SSD Crucial 1TB NVMe M.2;2;4490
+1343;I01343;Fone de Ouvido Profissional AKG K92;2;42899
+1344;I01344;Smart TV 32” Philco LED Roku TV;2;9490
+1345;I01345;SSD Crucial 1TB NVMe M.2;3;4490
+1346;I01346;ACER Notebook Gamer Nitro;4;46040
+1347;I01347;"Smart TV LED 32""Samsung LED Tizen TV";3;10790
+1348;I01348;Fone de Ouvido Profissional EDIFIER WH950NB;1;8990
+1349;I01349;Fone de ouvido Sem Fio QCY T27;1;12986
+1350;I01350;Película de Vidro 3D Galaxy A30s;2;179
+1351;I01351;Soundbar Tomate MTS-2017, Bivolt;4;7699
+1352;I01352;Película de Vidro 3D Galaxy A30s;2;179
+1353;I01353;Carregador Turbo Tipo-C 50w;3;539
+1354;I01354;Samsung Galaxy A36;2;19791
+1355;I01355;Mouse Redragon Wireless;1;16599
+1356;I01356;Fone de Ouvido Sem Fio TWS, PHILIPS;3;12491
+1357;I01357;Carregador Turbo USB-C 30W;2;499
+1358;I01358;Teclado Mecanico Fizz;4;1749
+1359;I01359;"Smart TV LED 32""Samsung LED Tizen TV";3;10790
+1360;I01360;Carregador Turbo Tipo-C 50w;1;539
+1361;I01361;Mouse Redragon Wireless;1;16599
+1362;I01362;Fone de Ouvido Profissional AKG K92;2;42899
+1363;I01363;Carregador Turbo USB-C 30W;4;499
+1364;I01364;"Smart TV LED 32""Samsung LED Tizen TV";1;10790
+1365;I01365;Fone de ouvido Sem Fio QCY T27;4;12986
+1366;I01366;ACER Notebook Gamer Nitro;1;46040
+1367;I01367;Película para iPhone 14Pro Anti impacto;4;518
+1368;I01368;Mouse Redragon Wireless;4;16599
+1369;I01369;Smart TV 32” Philco LED Roku TV;4;9490
+1370;I01370;Película de Vidro 3D Galaxy A30s;3;179
+1371;I01371;Fone de Ouvido Profissional AKG K92;4;42899
+1372;I01372;SSD Crucial 1TB NVMe M.2;4;4490
+1373;I01373;Fone de ouvido Sem Fio QCY T27;1;12986
+1374;I01374;SSD Crucial 1TB NVMe M.2;4;4490
+1375;I01375;ACER Notebook Gamer Nitro;2;46040
+1376;I01376;ACER Notebook Gamer Nitro;4;46040
+1377;I01377;Película para iPhone 14Pro Anti impacto;3;518
+1378;I01378;Samsung Galaxy A36;3;19791
+1379;I01379;Fone de Ouvido Sem Fio TWS, PHILIPS;4;12491
+1380;I01380;Projetor Smart Epson EpiqVision, FULL HD;4;304999
+1381;I01381;Projetor Smart Epson EpiqVision, FULL HD;2;304999
+1382;I01382;"Smart TV LED 32""Samsung LED Tizen TV";1;10790
+1383;I01383;SSD Crucial 1TB NVMe M.2;4;4490
+1384;I01384;Fone de Ouvido Profissional AKG K92;3;42899
+1385;I01385;"Smart TV LED 32""Samsung LED Tizen TV";4;10790
+1386;I01386;Projetor Smart Epson EpiqVision, FULL HD;1;304999
+1387;I01387;ACER Notebook Gamer Nitro;2;46040
+1388;I01388;"Smart TV LED 32""Samsung LED Tizen TV";1;10790
+1389;I01389;Teclado Mecanico Fizz;4;1749
+1390;I01390;Carregador Turbo USB-C 30W;2;499
+1391;I01391;Samsung Galaxy Tab S6 Lite;3;179901
+1392;I01392;Soundbar Samsung com 2.1 canais, Dolby Digital;2;10720
+1393;I01393;Fone de ouvido Sem Fio QCY T27;4;12986
+1394;I01394;Carregador Turbo Tipo-C 50w;1;539
+1395;I01395;Soundbar Tomate MTS-2017, Bivolt;3;7699
+1396;I01396;"Smart TV LED 32""Samsung LED Tizen TV";4;10790
+1397;I01397;Soundbar Samsung com 2.1 canais, Dolby Digital;2;10720
+1398;I01398;Fone de Ouvido Profissional AKG K92;1;42899
+1399;I01399;SSD Crucial 1TB NVMe M.2;3;4490
+1400;I01400;Fone de ouvido Sem Fio QCY T27;2;12986
+1401;I01401;Projetor EPSON Powerlite Wide Screen;1;274213
+1402;I01402;Película de Vidro 3D Galaxy A30s;1;179
+1403;I01403;ACER Notebook Gamer Nitro;4;46040
+1404;I01404;Fone de ouvido Sem Fio QCY T27;3;12986
+1405;I01405;"Smart TV LED 32""Samsung LED Tizen TV";1;10790
+1406;I01406;ACER Notebook Gamer Nitro;3;46040
+1407;I01407;Fone de Ouvido Profissional EDIFIER WH950NB;3;8990
+1408;I01408;Fone de ouvido Sem Fio QCY T27;1;12986
+1409;I01409;Projetor Smart Epson EpiqVision, FULL HD;3;304999
+1410;I01410;Teclado Mecanico Fizz;2;1749
+1411;I01411;Carregador Turbo Tipo-C 50w;4;539
+1412;I01412;Projetor EPSON Powerlite Wide Screen;2;274213
+1413;I01413;Soundbar Tomate MTS-2017, Bivolt;3;7699
+1414;I01414;"Smart TV LED 32""Samsung LED Tizen TV";2;10790
+1415;I01415;Projetor EPSON Powerlite Wide Screen;3;274213
+1416;I01416;Fone de ouvido Sem Fio QCY T27;3;12986
+1417;I01417;Fone de Ouvido Sem Fio TWS, PHILIPS;3;12491
+1418;I01418;ACER Notebook Gamer Nitro;3;46040
+1419;I01419;Samsung Galaxy Tab S6 Lite;3;179901
+1420;I01420;Projetor EPSON Powerlite Wide Screen;4;274213
+1421;I01421;Película para iPhone 14Pro Anti impacto;1;518
+1422;I01422;ACER Notebook Gamer Nitro;3;46040
+1423;I01423;Fone de ouvido Sem Fio QCY T27;1;12986
+1424;I01424;Fone de Ouvido Sem Fio TWS, PHILIPS;4;12491
+1425;I01425;Samsung Galaxy A36;2;19791
+1426;I01426;"Smart TV LED 32""Samsung LED Tizen TV";3;10790
+1427;I01427;Samsung Galaxy A36;1;19791
+1428;I01428;Mouse Redragon Wireless;1;16599
+1429;I01429;ACER Notebook Gamer Nitro;2;46040
+1430;I01430;Fone de Ouvido Profissional AKG K92;2;42899
+1431;I01431;Soundbar Samsung com 2.1 canais, Dolby Digital;3;10720
+1432;I01432;Samsung Galaxy Tab S6 Lite;3;179901
+1433;I01433;Fone de Ouvido Profissional AKG K92;3;42899
+1434;I01434;Película para iPhone 14Pro Anti impacto;3;518
+1435;I01435;Samsung Galaxy A36;2;19791
+1436;I01436;Projetor Smart Epson EpiqVision, FULL HD;1;304999
+1437;I01437;Fone de Ouvido Profissional AKG K92;4;42899
+1438;I01438;Teclado Mecanico Fizz;2;1749
+1439;I01439;Carregador Turbo Tipo-C 50w;2;539
+1440;I01440;Fone de ouvido Sem Fio QCY T27;1;12986
+1441;I01441;Soundbar Samsung com 2.1 canais, Dolby Digital;1;10720
+1442;I01442;Carregador Turbo USB-C 30W;1;499
+1443;I01443;Projetor Smart Epson EpiqVision, FULL HD;3;304999
+1444;I01444;Projetor EPSON Powerlite Wide Screen;1;274213
+1445;I01445;Mouse Redragon Wireless;2;16599
+1446;I01446;Smart TV 32” Philco LED Roku TV;2;9490
+1447;I01447;Fone de Ouvido Sem Fio TWS, PHILIPS;4;12491
+1448;I01448;Samsung Galaxy Tab S6 Lite;3;179901
+1449;I01449;Fone de Ouvido Profissional AKG K92;1;42899
+1450;I01450;Fone de ouvido Sem Fio QCY T27;1;12986
+1451;I01451;Projetor Smart Epson EpiqVision, FULL HD;2;304999
+1452;I01452;"Smart TV LED 32""Samsung LED Tizen TV";4;10790
+1453;I01453;"Smart TV LED 32""Samsung LED Tizen TV";4;10790
+1454;I01454;Samsung Galaxy A36;2;19791
+1455;I01455;ACER Notebook Gamer Nitro;2;46040
+1456;I01456;Smart TV 32” Philco LED Roku TV;3;9490
+1457;I01457;Carregador Turbo USB-C 30W;4;499
+1458;I01458;Película de Vidro 3D Galaxy A30s;2;179
+1459;I01459;Samsung Galaxy A36;2;19791
+1460;I01460;Samsung Galaxy A36;2;19791
+1461;I01461;Carregador Turbo Tipo-C 50w;3;539
+1462;I01462;Projetor EPSON Powerlite Wide Screen;2;274213
+1463;I01463;Projetor Smart Epson EpiqVision, FULL HD;1;304999
+1464;I01464;Projetor EPSON Powerlite Wide Screen;3;274213
+1465;I01465;Projetor EPSON Powerlite Wide Screen;4;274213
+1466;I01466;Película para iPhone 14Pro Anti impacto;4;518
+1467;I01467;Smart TV 32” Philco LED Roku TV;4;9490
+1468;I01468;Fone de Ouvido Profissional AKG K92;3;42899
+1469;I01469;Mouse Redragon Wireless;3;16599
+1470;I01470;Soundbar Samsung com 2.1 canais, Dolby Digital;1;10720
+1471;I01471;SSD Crucial 1TB NVMe M.2;4;4490
+1472;I01472;Carregador Turbo USB-C 30W;1;499
+1473;I01473;Fone de ouvido Sem Fio QCY T27;4;12986
+1474;I01474;Fone de Ouvido Profissional EDIFIER WH950NB;4;8990
+1475;I01475;ACER Notebook Gamer Nitro;2;46040
+1476;I01476;Fone de Ouvido Profissional AKG K92;2;42899
+1477;I01477;Samsung Galaxy Tab S6 Lite;3;179901
+1478;I01478;Samsung Galaxy Tab S6 Lite;1;179901
+1479;I01479;Película para iPhone 14Pro Anti impacto;1;518
+1480;I01480;Samsung Galaxy A36;4;19791
+1481;I01481;Película para iPhone 14Pro Anti impacto;1;518
+1482;I01482;Mouse Redragon Wireless;3;16599
+1483;I01483;Carregador Turbo Tipo-C 50w;4;539
+1484;I01484;Projetor Smart Epson EpiqVision, FULL HD;4;304999
+1485;I01485;Fone de Ouvido Profissional AKG K92;3;42899
+1486;I01486;Mouse Redragon Wireless;3;16599
+1487;I01487;SSD Crucial 1TB NVMe M.2;1;4490
+1488;I01488;Smart TV 32” Philco LED Roku TV;3;9490
+1489;I01489;Fone de Ouvido Sem Fio TWS, PHILIPS;1;12491
+1490;I01490;Teclado Mecanico Fizz;4;1749
+1491;I01491;Carregador Turbo USB-C 30W;2;499
+1492;I01492;Película para iPhone 14Pro Anti impacto;3;518
+1493;I01493;Projetor EPSON Powerlite Wide Screen;2;274213
+1494;I01494;Película de Vidro 3D Galaxy A30s;1;179
+1495;I01495;Fone de Ouvido Sem Fio TWS, PHILIPS;4;12491
+1496;I01496;Soundbar Samsung com 2.1 canais, Dolby Digital;2;10720
+1497;I01497;Teclado Mecanico Fizz;2;1749
+1498;I01498;Fone de Ouvido Sem Fio TWS, PHILIPS;1;12491
+1499;I01499;"Smart TV LED 32""Samsung LED Tizen TV";1;10790
+1500;I01500;Fone de ouvido Sem Fio QCY T27;3;12986
+1501;I01501;Samsung Galaxy A36;4;19791
+1502;I01502;SSD Crucial 1TB NVMe M.2;1;4490
+1503;I01503;Samsung Galaxy Tab S6 Lite;3;179901
+1504;I01504;Película para iPhone 14Pro Anti impacto;4;518
+1505;I01505;Carregador Turbo USB-C 30W;3;499
+1506;I01506;Fone de Ouvido Sem Fio TWS, PHILIPS;3;12491
+1507;I01507;Samsung Galaxy Tab S6 Lite;2;179901
+1508;I01508;Película de Vidro 3D Galaxy A30s;1;179
+1509;I01509;"Monitor UHD Samsung 32""";1;162657
+1510;I01510;Soundbar Tomate MTS-2017, Bivolt;2;7699
+1511;I01511;Samsung Galaxy A36;4;19791
+1512;I01512;ACER Notebook Gamer Nitro;1;46040
+1513;I01513;Carregador Turbo Tipo-C 50w;1;539
+1514;I01514;Samsung Galaxy A36;4;19791
+1515;I01515;Mouse Redragon Wireless;2;16599
+1516;I01516;Projetor EPSON Powerlite Wide Screen;2;274213
+1517;I01517;Película para iPhone 14Pro Anti impacto;4;518
+1518;I01518;Fone de Ouvido Profissional AKG K92;3;42899
+1519;I01519;Fone de ouvido Sem Fio QCY T27;2;12986
+1520;I01520;Fone de ouvido Sem Fio QCY T27;3;12986
+1521;I01521;Soundbar Samsung com 2.1 canais, Dolby Digital;4;10720
+1522;I01522;Smart TV 32” Philco LED Roku TV;2;9490
+1523;I01523;Soundbar Samsung com 2.1 canais, Dolby Digital;2;10720
+1524;I01524;Soundbar Tomate MTS-2017, Bivolt;4;7699
+1525;I01525;ACER Notebook Gamer Nitro;1;46040
+1526;I01526;ACER Notebook Gamer Nitro;3;46040
+1527;I01527;Smart TV 32” Philco LED Roku TV;2;9490
+1528;I01528;Soundbar Samsung com 2.1 canais, Dolby Digital;4;10720
+1529;I01529;Samsung Galaxy Tab S6 Lite;3;179901
+1530;I01530;Mouse Redragon Wireless;1;16599
+1531;I01531;Fone de ouvido Sem Fio QCY T27;1;12986
+1532;I01532;Soundbar Samsung com 2.1 canais, Dolby Digital;1;10720
+1533;I01533;Carregador Turbo USB-C 30W;2;499
+1534;I01534;Soundbar Tomate MTS-2017, Bivolt;1;7699
+1535;I01535;Fone de Ouvido Profissional AKG K92;1;42899
+1536;I01536;Fone de Ouvido Profissional AKG K92;4;42899
+1537;I01537;Teclado Mecanico Fizz;1;1749
+1538;I01538;Projetor EPSON Powerlite Wide Screen;4;274213
+1539;I01539;Teclado Mecanico Fizz;3;1749
+1540;I01540;Soundbar Samsung com 2.1 canais, Dolby Digital;4;10720
+1541;I01541;Projetor EPSON Powerlite Wide Screen;1;274213
+1542;I01542;Samsung Galaxy Tab S6 Lite;3;179901
+1543;I01543;Samsung Galaxy Tab S6 Lite;3;179901
+1544;I01544;Soundbar Samsung com 2.1 canais, Dolby Digital;2;10720
+1545;I01545;Samsung Galaxy Tab S6 Lite;1;179901
+1546;I01546;Carregador Turbo Tipo-C 50w;3;539
+1547;I01547;"Smart TV LED 32""Samsung LED Tizen TV";2;10790
+1548;I01548;Fone de Ouvido Sem Fio TWS, PHILIPS;2;12491
+1549;I01549;"Smart TV LED 32""Samsung LED Tizen TV";4;10790
+1550;I01550;Samsung Galaxy Tab S6 Lite;4;179901
+1551;I01551;Smart TV 32” Philco LED Roku TV;2;9490
+1552;I01552;Fone de ouvido Sem Fio QCY T27;4;12986
+1553;I01553;Película de Vidro 3D Galaxy A30s;4;179
+1554;I01554;Fone de Ouvido Profissional AKG K92;1;42899
+1555;I01555;"Monitor UHD Samsung 32""";3;162657
+1556;I01556;Carregador Turbo Tipo-C 50w;3;539
+1557;I01557;Carregador Turbo USB-C 30W;3;499
+1558;I01558;Samsung Galaxy Tab S6 Lite;1;179901
+1559;I01559;Teclado Mecanico Fizz;1;1749
+1560;I01560;Fone de Ouvido Profissional AKG K92;3;42899
+1561;I01561;Fone de Ouvido Profissional AKG K92;2;42899
+1562;I01562;Smart TV 32” Philco LED Roku TV;2;9490
+1563;I01563;Película para iPhone 14Pro Anti impacto;4;518
+1564;I01564;Soundbar Tomate MTS-2017, Bivolt;2;7699
+1565;I01565;Película para iPhone 14Pro Anti impacto;4;518
+1566;I01566;"Smart TV LED 32""Samsung LED Tizen TV";2;10790
+1567;I01567;Projetor EPSON Powerlite Wide Screen;1;274213
+1568;I01568;Samsung Galaxy Tab S6 Lite;4;179901
+1569;I01569;Fone de Ouvido Profissional AKG K92;2;42899
+1570;I01570;"Smart TV LED 32""Samsung LED Tizen TV";2;10790
+1571;I01571;Fone de Ouvido Profissional AKG K92;4;42899
+1572;I01572;Samsung Galaxy Tab S6 Lite;1;179901
+1573;I01573;Fone de Ouvido Profissional AKG K92;3;42899
+1574;I01574;Soundbar Samsung com 2.1 canais, Dolby Digital;2;10720
+1575;I01575;Carregador Turbo Tipo-C 50w;2;539
+1576;I01576;Carregador Turbo Tipo-C 50w;1;539
+1577;I01577;Soundbar Tomate MTS-2017, Bivolt;4;7699
+1578;I01578;Smart TV 32” Philco LED Roku TV;3;9490
+1579;I01579;Mouse Redragon Wireless;2;16599
+1580;I01580;ACER Notebook Gamer Nitro;2;46040
+1581;I01581;Fone de Ouvido Sem Fio TWS, PHILIPS;1;12491
+1582;I01582;ACER Notebook Gamer Nitro;2;46040
+1583;I01583;Projetor Smart Epson EpiqVision, FULL HD;1;304999
+1584;I01584;Película de Vidro 3D Galaxy A30s;3;179
+1585;I01585;Samsung Galaxy A36;3;19791
+1586;I01586;Projetor Smart Epson EpiqVision, FULL HD;3;304999
+1587;I01587;Fone de ouvido Sem Fio QCY T27;3;12986
+1588;I01588;Smart TV 32” Philco LED Roku TV;2;9490
+1589;I01589;Película de Vidro 3D Galaxy A30s;3;179
+1590;I01590;Película para iPhone 14Pro Anti impacto;4;518
+1591;I01591;Soundbar Tomate MTS-2017, Bivolt;2;7699
+1592;I01592;"Monitor UHD Samsung 32""";4;162657
+1593;I01593;Fone de ouvido Sem Fio QCY T27;3;12986
+1594;I01594;Película para iPhone 14Pro Anti impacto;1;518
+1595;I01595;Smart TV 32” Philco LED Roku TV;3;9490
+1596;I01596;"Monitor UHD Samsung 32""";1;162657
+1597;I01597;Samsung Galaxy A36;4;19791
+1598;I01598;Samsung Galaxy Tab S6 Lite;3;179901
+1599;I01599;Teclado Mecanico Fizz;3;1749
+1600;I01600;ACER Notebook Gamer Nitro;4;46040
+1601;I01601;"Monitor UHD Samsung 32""";3;162657
+1602;I01602;Teclado Mecanico Fizz;2;1749
+1603;I01603;Mouse Redragon Wireless;1;16599
+1604;I01604;Projetor Smart Epson EpiqVision, FULL HD;2;304999
+1605;I01605;Película para iPhone 14Pro Anti impacto;3;518
+1606;I01606;"Smart TV LED 32""Samsung LED Tizen TV";3;10790
+1607;I01607;SSD Crucial 1TB NVMe M.2;1;4490
+1608;I01608;Carregador Turbo USB-C 30W;1;499
+1609;I01609;SSD Crucial 1TB NVMe M.2;4;4490
+1610;I01610;Soundbar Tomate MTS-2017, Bivolt;4;7699
+1611;I01611;"Monitor UHD Samsung 32""";3;162657
+1612;I01612;Carregador Turbo Tipo-C 50w;2;539
+1613;I01613;Carregador Turbo USB-C 30W;2;499
+1614;I01614;Película para iPhone 14Pro Anti impacto;2;518
+1615;I01615;Teclado Mecanico Fizz;4;1749
+1616;I01616;Película para iPhone 14Pro Anti impacto;1;518
+1617;I01617;Samsung Galaxy Tab S6 Lite;2;179901
+1618;I01618;Carregador Turbo USB-C 30W;4;499
+1619;I01619;Projetor Smart Epson EpiqVision, FULL HD;3;304999
+1620;I01620;Película de Vidro 3D Galaxy A30s;2;179
+1621;I01621;Película de Vidro 3D Galaxy A30s;1;179
+1622;I01622;Projetor Smart Epson EpiqVision, FULL HD;3;304999
+1623;I01623;Samsung Galaxy Tab S6 Lite;3;179901
+1624;I01624;Carregador Turbo Tipo-C 50w;4;539
+1625;I01625;Carregador Turbo Tipo-C 50w;2;539
+1626;I01626;Projetor EPSON Powerlite Wide Screen;1;274213
+1627;I01627;Smart TV 32” Philco LED Roku TV;3;9490
+1628;I01628;Fone de Ouvido Profissional AKG K92;1;42899
+1629;I01629;Teclado Mecanico Fizz;4;1749
+1630;I01630;Soundbar Tomate MTS-2017, Bivolt;4;7699
+1631;I01631;Película para iPhone 14Pro Anti impacto;2;518
+1632;I01632;"Monitor UHD Samsung 32""";1;162657
+1633;I01633;SSD Crucial 1TB NVMe M.2;4;4490
+1634;I01634;Película para iPhone 14Pro Anti impacto;2;518
+1635;I01635;Teclado Mecanico Fizz;3;1749
+1636;I01636;Mouse Redragon Wireless;1;16599
+1637;I01637;ACER Notebook Gamer Nitro;2;46040
+1638;I01638;Teclado Mecanico Fizz;3;1749
+1639;I01639;Película para iPhone 14Pro Anti impacto;1;518
+1640;I01640;Película de Vidro 3D Galaxy A30s;3;179
+1641;I01641;Fone de ouvido Sem Fio QCY T27;4;12986
+1642;I01642;Soundbar Samsung com 2.1 canais, Dolby Digital;4;10720
+1643;I01643;Película de Vidro 3D Galaxy A30s;4;179
+1644;I01644;"Smart TV LED 32""Samsung LED Tizen TV";1;10790
+1645;I01645;"Monitor UHD Samsung 32""";1;162657
+1646;I01646;"Smart TV LED 32""Samsung LED Tizen TV";2;10790
+1647;I01647;Projetor Smart Epson EpiqVision, FULL HD;4;304999
+1648;I01648;Fone de Ouvido Profissional AKG K92;4;42899
+1649;I01649;Soundbar Tomate MTS-2017, Bivolt;2;7699
+1650;I01650;ACER Notebook Gamer Nitro;3;46040
+1651;I01651;Carregador Turbo Tipo-C 50w;4;539
+1652;I01652;Fone de ouvido Sem Fio QCY T27;2;12986
+1653;I01653;Projetor EPSON Powerlite Wide Screen;2;274213
+1654;I01654;Soundbar Tomate MTS-2017, Bivolt;3;7699
+1655;I01655;Película de Vidro 3D Galaxy A30s;3;179
+1656;I01656;"Monitor UHD Samsung 32""";4;162657
+1657;I01657;SSD Crucial 1TB NVMe M.2;4;4490
+1658;I01658;Soundbar Tomate MTS-2017, Bivolt;2;7699
+1659;I01659;Película de Vidro 3D Galaxy A30s;1;179
+1660;I01660;Soundbar Tomate MTS-2017, Bivolt;3;7699
+1661;I01661;ACER Notebook Gamer Nitro;3;46040
+1662;I01662;Fone de Ouvido Profissional AKG K92;1;42899
+1663;I01663;Projetor Smart Epson EpiqVision, FULL HD;4;304999
+1664;I01664;Samsung Galaxy Tab S6 Lite;3;179901
+1665;I01665;"Smart TV LED 32""Samsung LED Tizen TV";3;10790
+1666;I01666;Película de Vidro 3D Galaxy A30s;2;179
+1667;I01667;SSD Crucial 1TB NVMe M.2;4;4490
+1668;I01668;Soundbar Tomate MTS-2017, Bivolt;1;7699
+1669;I01669;Fone de ouvido Sem Fio QCY T27;2;12986
+1670;I01670;Soundbar Samsung com 2.1 canais, Dolby Digital;1;10720
+1671;I01671;Película de Vidro 3D Galaxy A30s;3;179
+1672;I01672;Mouse Redragon Wireless;1;16599
+1673;I01673;Soundbar Samsung com 2.1 canais, Dolby Digital;3;10720
+1674;I01674;Samsung Galaxy A36;4;19791
+1675;I01675;Samsung Galaxy A36;1;19791
+1676;I01676;Projetor EPSON Powerlite Wide Screen;1;274213
+1677;I01677;Fone de ouvido Sem Fio QCY T27;4;12986
+1678;I01678;SSD Crucial 1TB NVMe M.2;2;4490
+1679;I01679;Samsung Galaxy Tab S6 Lite;2;179901
+1680;I01680;Samsung Galaxy Tab S6 Lite;4;179901
+1681;I01681;Carregador Turbo Tipo-C 50w;3;539
+1682;I01682;SSD Crucial 1TB NVMe M.2;3;4490
+1683;I01683;Fone de ouvido Sem Fio QCY T27;2;12986
+1684;I01684;Fone de Ouvido Profissional AKG K92;3;42899
+1685;I01685;Mouse Redragon Wireless;2;16599
+1686;I01686;Carregador Turbo Tipo-C 50w;1;539
+1687;I01687;"Monitor UHD Samsung 32""";2;162657
+1688;I01688;ACER Notebook Gamer Nitro;3;46040
+1689;I01689;Teclado Mecanico Fizz;2;1749
+1690;I01690;Película para iPhone 14Pro Anti impacto;2;518
+1691;I01691;Carregador Turbo Tipo-C 50w;2;539
+1692;I01692;Projetor EPSON Powerlite Wide Screen;4;274213
+1693;I01693;Película para iPhone 14Pro Anti impacto;1;518
+1694;I01694;Projetor EPSON Powerlite Wide Screen;2;274213
+1695;I01695;Película de Vidro 3D Galaxy A30s;1;179
+1696;I01696;Mouse Redragon Wireless;2;16599
+1697;I01697;Smart TV 32” Philco LED Roku TV;4;9490
+1698;I01698;Samsung Galaxy Tab S6 Lite;3;179901
+1699;I01699;ACER Notebook Gamer Nitro;2;46040
+1700;I01700;SSD Crucial 1TB NVMe M.2;1;4490
+1701;I01701;Samsung Galaxy A36;1;19791
+1702;I01702;Soundbar Tomate MTS-2017, Bivolt;1;7699
+1703;I01703;Película para iPhone 14Pro Anti impacto;4;518
+1704;I01704;Projetor Smart Epson EpiqVision, FULL HD;3;304999
+1705;I01705;Fone de Ouvido Profissional AKG K92;3;42899
+1706;I01706;Smart TV 32” Philco LED Roku TV;2;9490
+1707;I01707;Soundbar Samsung com 2.1 canais, Dolby Digital;4;10720
+1708;I01708;Película de Vidro 3D Galaxy A30s;3;179
+1709;I01709;Fone de ouvido Sem Fio QCY T27;3;12986
+1710;I01710;Smart TV 32” Philco LED Roku TV;3;9490
+1711;I01711;Projetor EPSON Powerlite Wide Screen;4;274213
+1712;I01712;Carregador Turbo Tipo-C 50w;1;539
+1713;I01713;Projetor EPSON Powerlite Wide Screen;1;274213
+1714;I01714;Soundbar Tomate MTS-2017, Bivolt;2;7699
+1715;I01715;Película para iPhone 14Pro Anti impacto;4;518
+1716;I01716;Fone de Ouvido Profissional AKG K92;4;42899
+1717;I01717;Fone de Ouvido Profissional AKG K92;4;42899
+1718;I01718;Fone de Ouvido Profissional EDIFIER WH950NB;2;8990
+1719;I01719;Fone de Ouvido Sem Fio TWS, PHILIPS;4;12491
+1720;I01720;Soundbar Tomate MTS-2017, Bivolt;4;7699
+1721;I01721;Fone de Ouvido Profissional EDIFIER WH950NB;4;8990
+1722;I01722;SSD Crucial 1TB NVMe M.2;2;4490
+1723;I01723;Teclado Mecanico Fizz;2;1749
+1724;I01724;Fone de Ouvido Profissional AKG K92;4;42899
+1725;I01725;Teclado Mecanico Fizz;3;1749
+1726;I01726;Samsung Galaxy Tab S6 Lite;2;179901
+1727;I01727;Película para iPhone 14Pro Anti impacto;2;518
+1728;I01728;Projetor EPSON Powerlite Wide Screen;4;274213
+1729;I01729;Mouse Redragon Wireless;3;16599
+1730;I01730;Smart TV 32” Philco LED Roku TV;4;9490
+1731;I01731;Fone de Ouvido Profissional EDIFIER WH950NB;4;8990
+1732;I01732;Samsung Galaxy A36;1;19791
+1733;I01733;Mouse Redragon Wireless;2;16599
+1734;I01734;Fone de Ouvido Profissional EDIFIER WH950NB;4;8990
+1735;I01735;Samsung Galaxy Tab S6 Lite;2;179901
+1736;I01736;Teclado Mecanico Fizz;1;1749
+1737;I01737;"Monitor UHD Samsung 32""";4;162657
+1738;I01738;Fone de Ouvido Profissional AKG K92;1;42899
+1739;I01739;Soundbar Samsung com 2.1 canais, Dolby Digital;3;10720
+1740;I01740;Soundbar Tomate MTS-2017, Bivolt;2;7699
+1741;I01741;Película para iPhone 14Pro Anti impacto;2;518
+1742;I01742;Película de Vidro 3D Galaxy A30s;3;179
+1743;I01743;Smart TV 32” Philco LED Roku TV;1;9490
+1744;I01744;"Monitor UHD Samsung 32""";1;162657
+1745;I01745;"Monitor UHD Samsung 32""";1;162657
+1746;I01746;Película de Vidro 3D Galaxy A30s;3;179
+1747;I01747;Fone de Ouvido Sem Fio TWS, PHILIPS;3;12491
+1748;I01748;SSD Crucial 1TB NVMe M.2;4;4490
+1749;I01749;Teclado Mecanico Fizz;1;1749
+1750;I01750;Projetor Smart Epson EpiqVision, FULL HD;2;304999
+1751;I01751;Mouse Redragon Wireless;1;16599
+1752;I01752;Projetor EPSON Powerlite Wide Screen;3;274213
+1753;I01753;Película para iPhone 14Pro Anti impacto;1;518
+1754;I01754;"Monitor UHD Samsung 32""";3;162657
+1755;I01755;Smart TV 32” Philco LED Roku TV;1;9490
+1756;I01756;Fone de Ouvido Profissional AKG K92;4;42899
+1757;I01757;Fone de ouvido Sem Fio QCY T27;4;12986
+1758;I01758;"Monitor UHD Samsung 32""";4;162657
+1759;I01759;Samsung Galaxy Tab S6 Lite;4;179901
+1760;I01760;Fone de Ouvido Profissional EDIFIER WH950NB;4;8990
+1761;I01761;Carregador Turbo Tipo-C 50w;4;539
+1762;I01762;Smart TV 32” Philco LED Roku TV;1;9490
+1763;I01763;Samsung Galaxy Tab S6 Lite;3;179901
+1764;I01764;Projetor EPSON Powerlite Wide Screen;4;274213
+1765;I01765;Mouse Redragon Wireless;2;16599
+1766;I01766;Smart TV 32” Philco LED Roku TV;3;9490
+1767;I01767;Projetor EPSON Powerlite Wide Screen;3;274213
+1768;I01768;ACER Notebook Gamer Nitro;2;46040
+1769;I01769;Samsung Galaxy Tab S6 Lite;2;179901
+1770;I01770;ACER Notebook Gamer Nitro;1;46040
+1771;I01771;Fone de Ouvido Profissional EDIFIER WH950NB;2;8990
+1772;I01772;Fone de Ouvido Profissional EDIFIER WH950NB;1;8990
+1773;I01773;Película de Vidro 3D Galaxy A30s;1;179
+1774;I01774;Teclado Mecanico Fizz;2;1749
+1775;I01775;Película para iPhone 14Pro Anti impacto;1;518
+1776;I01776;Carregador Turbo USB-C 30W;1;499
+1777;I01777;Samsung Galaxy Tab S6 Lite;3;179901
+1778;I01778;Fone de ouvido Sem Fio QCY T27;2;12986
+1779;I01779;Soundbar Tomate MTS-2017, Bivolt;4;7699
+1780;I01780;Samsung Galaxy Tab S6 Lite;4;179901
+1781;I01781;Carregador Turbo Tipo-C 50w;4;539
+1782;I01782;"Monitor UHD Samsung 32""";3;162657
+1783;I01783;Carregador Turbo Tipo-C 50w;2;539
+1784;I01784;Samsung Galaxy Tab S6 Lite;3;179901
+1785;I01785;Projetor EPSON Powerlite Wide Screen;4;274213
+1786;I01786;Película de Vidro 3D Galaxy A30s;4;179
+1787;I01787;Samsung Galaxy A36;4;19791
+1788;I01788;Teclado Mecanico Fizz;1;1749
+1789;I01789;Teclado Mecanico Fizz;4;1749
+1790;I01790;SSD Crucial 1TB NVMe M.2;2;4490
+1791;I01791;Película para iPhone 14Pro Anti impacto;1;518
+1792;I01792;Soundbar Tomate MTS-2017, Bivolt;2;7699
+1793;I01793;Fone de ouvido Sem Fio QCY T27;1;12986
+1794;I01794;Smart TV 32” Philco LED Roku TV;2;9490
+1795;I01795;Fone de Ouvido Sem Fio TWS, PHILIPS;1;12491
+1796;I01796;Fone de Ouvido Profissional AKG K92;1;42899
+1797;I01797;Carregador Turbo USB-C 30W;4;499
+1798;I01798;Projetor EPSON Powerlite Wide Screen;3;274213
+1799;I01799;SSD Crucial 1TB NVMe M.2;4;4490
+1800;I01800;"Smart TV LED 32""Samsung LED Tizen TV";2;10790
+1801;I01801;Fone de ouvido Sem Fio QCY T27;4;12986
+1802;I01802;Carregador Turbo USB-C 30W;1;499
+1803;I01803;"Smart TV LED 32""Samsung LED Tizen TV";1;10790
+1804;I01804;Samsung Galaxy A36;1;19791
+1805;I01805;Soundbar Samsung com 2.1 canais, Dolby Digital;2;10720
+1806;I01806;Projetor Smart Epson EpiqVision, FULL HD;2;304999
+1807;I01807;Soundbar Tomate MTS-2017, Bivolt;3;7699
+1808;I01808;Carregador Turbo Tipo-C 50w;3;539
+1809;I01809;Samsung Galaxy Tab S6 Lite;3;179901
+1810;I01810;Smart TV 32” Philco LED Roku TV;3;9490
+1811;I01811;Película de Vidro 3D Galaxy A30s;3;179
+1812;I01812;SSD Crucial 1TB NVMe M.2;1;4490
+1813;I01813;ACER Notebook Gamer Nitro;1;46040
+1814;I01814;Carregador Turbo Tipo-C 50w;1;539
+1815;I01815;Fone de ouvido Sem Fio QCY T27;2;12986
+1816;I01816;Samsung Galaxy A36;2;19791
+1817;I01817;Fone de Ouvido Profissional AKG K92;2;42899
+1818;I01818;Carregador Turbo USB-C 30W;3;499
+1819;I01819;Mouse Redragon Wireless;3;16599
+1820;I01820;Película para iPhone 14Pro Anti impacto;1;518
+1821;I01821;Soundbar Samsung com 2.1 canais, Dolby Digital;1;10720
+1822;I01822;Samsung Galaxy Tab S6 Lite;1;179901
+1823;I01823;Projetor Smart Epson EpiqVision, FULL HD;4;304999
+1824;I01824;Fone de Ouvido Sem Fio TWS, PHILIPS;3;12491
+1825;I01825;Samsung Galaxy Tab S6 Lite;3;179901
+1826;I01826;Samsung Galaxy A36;3;19791
+1827;I01827;Smart TV 32” Philco LED Roku TV;1;9490
+1828;I01828;Película para iPhone 14Pro Anti impacto;3;518
+1829;I01829;Fone de Ouvido Sem Fio TWS, PHILIPS;4;12491
+1830;I01830;Smart TV 32” Philco LED Roku TV;3;9490
+1831;I01831;Fone de Ouvido Sem Fio TWS, PHILIPS;4;12491
+1832;I01832;Samsung Galaxy Tab S6 Lite;2;179901
+1833;I01833;Mouse Redragon Wireless;2;16599
+1834;I01834;"Monitor UHD Samsung 32""";4;162657
+1835;I01835;ACER Notebook Gamer Nitro;3;46040
+1836;I01836;"Monitor UHD Samsung 32""";4;162657
+1837;I01837;Fone de Ouvido Profissional AKG K92;3;42899
+1838;I01838;"Monitor UHD Samsung 32""";3;162657
+1839;I01839;SSD Crucial 1TB NVMe M.2;3;4490
+1840;I01840;Smart TV 32” Philco LED Roku TV;3;9490
+1841;I01841;Samsung Galaxy Tab S6 Lite;1;179901
+1842;I01842;Fone de ouvido Sem Fio QCY T27;3;12986
+1843;I01843;Teclado Mecanico Fizz;1;1749
+1844;I01844;Smart TV 32” Philco LED Roku TV;2;9490
+1845;I01845;Samsung Galaxy A36;3;19791
+1846;I01846;SSD Crucial 1TB NVMe M.2;3;4490
+1847;I01847;Soundbar Tomate MTS-2017, Bivolt;4;7699
+1848;I01848;Smart TV 32” Philco LED Roku TV;2;9490
+1849;I01849;Carregador Turbo Tipo-C 50w;2;539
+1850;I01850;Fone de Ouvido Profissional AKG K92;2;42899
+1851;I01851;Mouse Redragon Wireless;1;16599
+1852;I01852;Carregador Turbo USB-C 30W;1;499
+1853;I01853;Smart TV 32” Philco LED Roku TV;4;9490
+1854;I01854;"Monitor UHD Samsung 32""";4;162657
+1855;I01855;"Monitor UHD Samsung 32""";3;162657
+1856;I01856;Teclado Mecanico Fizz;1;1749
+1857;I01857;Teclado Mecanico Fizz;3;1749
+1858;I01858;Samsung Galaxy Tab S6 Lite;3;179901
+1859;I01859;Fone de Ouvido Profissional AKG K92;1;42899
+1860;I01860;Carregador Turbo USB-C 30W;1;499
+1861;I01861;Fone de Ouvido Profissional EDIFIER WH950NB;2;8990
+1862;I01862;Projetor Smart Epson EpiqVision, FULL HD;3;304999
+1863;I01863;Carregador Turbo USB-C 30W;4;499
+1864;I01864;Fone de Ouvido Profissional EDIFIER WH950NB;3;8990
+1865;I01865;"Monitor UHD Samsung 32""";3;162657
+1866;I01866;Película de Vidro 3D Galaxy A30s;3;179
+1867;I01867;Fone de Ouvido Profissional AKG K92;3;42899
+1868;I01868;Fone de Ouvido Profissional AKG K92;1;42899
+1869;I01869;Smart TV 32” Philco LED Roku TV;3;9490
+1870;I01870;Projetor Smart Epson EpiqVision, FULL HD;4;304999
+1871;I01871;Película para iPhone 14Pro Anti impacto;4;518
+1872;I01872;Carregador Turbo Tipo-C 50w;4;539
+1873;I01873;Mouse Redragon Wireless;1;16599
+1874;I01874;"Monitor UHD Samsung 32""";3;162657
+1875;I01875;"Smart TV LED 32""Samsung LED Tizen TV";1;10790
+1876;I01876;Soundbar Tomate MTS-2017, Bivolt;3;7699
+1877;I01877;Projetor Smart Epson EpiqVision, FULL HD;3;304999
+1878;I01878;Projetor EPSON Powerlite Wide Screen;2;274213
+1879;I01879;Fone de Ouvido Sem Fio TWS, PHILIPS;4;12491
+1880;I01880;ACER Notebook Gamer Nitro;2;46040
+1881;I01881;"Smart TV LED 32""Samsung LED Tizen TV";4;10790
+1882;I01882;Soundbar Tomate MTS-2017, Bivolt;3;7699
+1883;I01883;"Smart TV LED 32""Samsung LED Tizen TV";1;10790
+1884;I01884;SSD Crucial 1TB NVMe M.2;2;4490
+1885;I01885;Película de Vidro 3D Galaxy A30s;4;179
+1886;I01886;ACER Notebook Gamer Nitro;1;46040
+1887;I01887;Carregador Turbo Tipo-C 50w;3;539
+1888;I01888;Fone de Ouvido Sem Fio TWS, PHILIPS;1;12491
+1889;I01889;Samsung Galaxy A36;3;19791
+1890;I01890;"Monitor UHD Samsung 32""";2;162657
+1891;I01891;Soundbar Samsung com 2.1 canais, Dolby Digital;4;10720
+1892;I01892;Mouse Redragon Wireless;3;16599
+1893;I01893;Soundbar Samsung com 2.1 canais, Dolby Digital;1;10720
+1894;I01894;Mouse Redragon Wireless;3;16599
+1895;I01895;Teclado Mecanico Fizz;4;1749
+1896;I01896;Película de Vidro 3D Galaxy A30s;2;179
+1897;I01897;Soundbar Samsung com 2.1 canais, Dolby Digital;2;10720
+1898;I01898;ACER Notebook Gamer Nitro;2;46040
+1899;I01899;Película de Vidro 3D Galaxy A30s;1;179
+1900;I01900;Fone de ouvido Sem Fio QCY T27;4;12986
+1901;I01901;Projetor Smart Epson EpiqVision, FULL HD;1;304999
+1902;I01902;Samsung Galaxy Tab S6 Lite;1;179901
+1903;I01903;Soundbar Tomate MTS-2017, Bivolt;1;7699
+1904;I01904;Teclado Mecanico Fizz;2;1749
+1905;I01905;Soundbar Tomate MTS-2017, Bivolt;1;7699
+1906;I01906;Fone de Ouvido Profissional AKG K92;4;42899
+1907;I01907;Projetor EPSON Powerlite Wide Screen;2;274213
+1908;I01908;Película de Vidro 3D Galaxy A30s;2;179
+1909;I01909;SSD Crucial 1TB NVMe M.2;2;4490
+1910;I01910;Mouse Redragon Wireless;4;16599
+1911;I01911;Fone de ouvido Sem Fio QCY T27;2;12986
+1912;I01912;Fone de Ouvido Sem Fio TWS, PHILIPS;1;12491
+1913;I01913;Película para iPhone 14Pro Anti impacto;2;518
+1914;I01914;Fone de ouvido Sem Fio QCY T27;4;12986
+1915;I01915;Samsung Galaxy Tab S6 Lite;4;179901
+1916;I01916;ACER Notebook Gamer Nitro;2;46040
+1917;I01917;Carregador Turbo Tipo-C 50w;2;539
+1918;I01918;Mouse Redragon Wireless;3;16599
+1919;I01919;Fone de ouvido Sem Fio QCY T27;2;12986
+1920;I01920;Smart TV 32” Philco LED Roku TV;2;9490
+1921;I01921;"Monitor UHD Samsung 32""";3;162657
+1922;I01922;Carregador Turbo USB-C 30W;3;499
+1923;I01923;Soundbar Tomate MTS-2017, Bivolt;4;7699
+1924;I01924;Samsung Galaxy A36;4;19791
+1925;I01925;Carregador Turbo Tipo-C 50w;1;539
+1926;I01926;Smart TV 32” Philco LED Roku TV;4;9490
+1927;I01927;SSD Crucial 1TB NVMe M.2;1;4490
+1928;I01928;Fone de ouvido Sem Fio QCY T27;3;12986
+1929;I01929;Carregador Turbo USB-C 30W;2;499
+1930;I01930;Projetor Smart Epson EpiqVision, FULL HD;2;304999
+1931;I01931;Fone de Ouvido Profissional EDIFIER WH950NB;1;8990
+1932;I01932;"Monitor UHD Samsung 32""";4;162657
+1933;I01933;Smart TV 32” Philco LED Roku TV;4;9490
+1934;I01934;Fone de ouvido Sem Fio QCY T27;4;12986
+1935;I01935;Carregador Turbo USB-C 30W;1;499
+1936;I01936;Carregador Turbo Tipo-C 50w;3;539
+1937;I01937;Carregador Turbo USB-C 30W;3;499
+1938;I01938;Película para iPhone 14Pro Anti impacto;1;518
+1939;I01939;Soundbar Samsung com 2.1 canais, Dolby Digital;3;10720
+1940;I01940;Teclado Mecanico Fizz;3;1749
+1941;I01941;Projetor Smart Epson EpiqVision, FULL HD;4;304999
+1942;I01942;Projetor Smart Epson EpiqVision, FULL HD;2;304999
+1943;I01943;Película de Vidro 3D Galaxy A30s;1;179
+1944;I01944;Fone de Ouvido Sem Fio TWS, PHILIPS;4;12491
+1945;I01945;ACER Notebook Gamer Nitro;3;46040
+1946;I01946;Soundbar Samsung com 2.1 canais, Dolby Digital;3;10720
+1947;I01947;Carregador Turbo USB-C 30W;1;499
+1948;I01948;Fone de Ouvido Sem Fio TWS, PHILIPS;2;12491
+1949;I01949;Fone de Ouvido Profissional EDIFIER WH950NB;2;8990
+1950;I01950;Soundbar Samsung com 2.1 canais, Dolby Digital;2;10720
+1951;I01951;Fone de Ouvido Sem Fio TWS, PHILIPS;2;12491
+1952;I01952;Carregador Turbo Tipo-C 50w;1;539
+1953;I01953;Fone de Ouvido Profissional EDIFIER WH950NB;2;8990
+1954;I01954;Samsung Galaxy A36;4;19791
+1955;I01955;Fone de ouvido Sem Fio QCY T27;1;12986
+1956;I01956;"Monitor UHD Samsung 32""";4;162657
+1957;I01957;ACER Notebook Gamer Nitro;2;46040
+1958;I01958;Carregador Turbo USB-C 30W;2;499
+1959;I01959;"Smart TV LED 32""Samsung LED Tizen TV";2;10790
+1960;I01960;Projetor EPSON Powerlite Wide Screen;1;274213
+1961;I01961;Fone de Ouvido Profissional EDIFIER WH950NB;2;8990
+1962;I01962;Fone de Ouvido Sem Fio TWS, PHILIPS;2;12491
+1963;I01963;Carregador Turbo Tipo-C 50w;4;539
+1964;I01964;Película para iPhone 14Pro Anti impacto;2;518
+1965;I01965;Fone de Ouvido Sem Fio TWS, PHILIPS;4;12491
+1966;I01966;ACER Notebook Gamer Nitro;1;46040
+1967;I01967;Carregador Turbo USB-C 30W;1;499
+1968;I01968;Samsung Galaxy A36;3;19791
+1969;I01969;"Smart TV LED 32""Samsung LED Tizen TV";4;10790
+1970;I01970;SSD Crucial 1TB NVMe M.2;2;4490
+1971;I01971;Carregador Turbo Tipo-C 50w;1;539
+1972;I01972;Projetor EPSON Powerlite Wide Screen;4;274213
+1973;I01973;Fone de Ouvido Profissional EDIFIER WH950NB;3;8990
+1974;I01974;Fone de Ouvido Profissional AKG K92;3;42899
+1975;I01975;Carregador Turbo Tipo-C 50w;2;539
+1976;I01976;Carregador Turbo USB-C 30W;2;499
+1977;I01977;Mouse Redragon Wireless;4;16599
+1978;I01978;Smart TV 32” Philco LED Roku TV;1;9490
+1979;I01979;Smart TV 32” Philco LED Roku TV;4;9490
+1980;I01980;Fone de ouvido Sem Fio QCY T27;2;12986
+1981;I01981;Fone de Ouvido Profissional EDIFIER WH950NB;1;8990
+1982;I01982;"Monitor UHD Samsung 32""";2;162657
+1983;I01983;Fone de Ouvido Sem Fio TWS, PHILIPS;4;12491
+1984;I01984;Fone de Ouvido Sem Fio TWS, PHILIPS;3;12491
+1985;I01985;Carregador Turbo USB-C 30W;2;499
+1986;I01986;Fone de ouvido Sem Fio QCY T27;1;12986
+1987;I01987;Teclado Mecanico Fizz;1;1749
+1988;I01988;Película de Vidro 3D Galaxy A30s;4;179
+1989;I01989;Fone de Ouvido Profissional AKG K92;4;42899
+1990;I01990;Teclado Mecanico Fizz;4;1749
+1991;I01991;Carregador Turbo USB-C 30W;4;499
+1992;I01992;Samsung Galaxy Tab S6 Lite;4;179901
+1993;I01993;Samsung Galaxy A36;1;19791
+1994;I01994;Soundbar Tomate MTS-2017, Bivolt;1;7699
+1995;I01995;Película para iPhone 14Pro Anti impacto;3;518
+1996;I01996;Soundbar Tomate MTS-2017, Bivolt;3;7699
+1997;I01997;Soundbar Tomate MTS-2017, Bivolt;1;7699
+1998;I01998;Fone de ouvido Sem Fio QCY T27;2;12986
+1999;I01999;ACER Notebook Gamer Nitro;2;46040
+2000;I02000;Fone de Ouvido Sem Fio TWS, PHILIPS;1;12491
