@@ -1,15 +1,4 @@
-#include <stdio.h>
-#include <stdlib.h>
-#include <string.h>
-#include <math.h>
-
-typedef struct Item {
-    int id;
-    char item_id[7];
-    char product[50];
-    int quantity;
-    int price;
-}Item;
+#include "avl_tree.h"
 
 int string_to_int(char *number){
 
@@ -29,6 +18,9 @@ int string_to_int(char *number){
 }
 
 int main(){
+    
+    Avl* tree = NULL;
+
     char Linha[1000], *p, *q;
     Item products[2000];
 
@@ -60,9 +52,9 @@ int main(){
         i++;
     }
 
-    for(i = 0; i < 1000; i++)
-        printf("%d - %s\n", products[i].id, products[i].product);
-
+    //for(i = 0; i < 2000; i++)
+        //tree = InsertAvl(tree, products[i]);
+    
     fclose(fp);
     return 0;
 }
