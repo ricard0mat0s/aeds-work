@@ -61,7 +61,7 @@ int main(){
     }
 
     for(i = 0; i < 1000; i++)
-        printf("%d - %s\n", products[i].quantity, products[i].product);
+        printf("%d - %s\n", products[i].id, products[i].product);
 
     fclose(fp);
     return 0;
