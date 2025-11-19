@@ -3,13 +3,120 @@
 #include <string.h>
 #include <math.h>
 
-typedef struct Item {
+typedef struct Item{
     int id;
     char item_id[7];
     char product[50];
     int quantity;
     int price;
 }Item;
+
+typedef struct avl{
+    Item Info;
+    int Altura;
+    struct avl *esq, *dir;
+}Avl;
+
+int alturaAvl(Avl *a){
+    if(a == NULL) return -1;
+    else return a->Altura;
+}
+
+int maior(int x, int y){
+    if(x > y) return x;
+    else return y;
+}
+
+int AvlFactorBalance(Avl *a){
+    return abs(alturaAvl(a->esq) - alturaAvl(a->dir));
+}
+
+Avl* RotacaoLL(Avl *a){
+    Avl *no;
+
+    no = a->esq;
+    a->esq = no->dir;
+    no->dir = a;
+
+    a->Altura = maior(alturaAvl(a->esq), alturaAvl(a->dir)) + 1;
+    no->Altura = maior(alturaAvl(no->esq), a->Altura) + 1;
+
+    return no;
+}
+
+Avl* RotacaoRR(Avl *a){
+    Avl *no;
+
+    no = a->dir;
+    a->dir = no->esq;
+    no->esq = a;
+
+    a->Altura = maior(alturaAvl(a->esq), alturaAvl(a->dir));
+    no->Altura = maior(alturaAvl(no->dir), a->Altura) + 1;
+
+    return no;
+}
+
+Avl* RotacaoLR(Avl *a){
+    a->esq = RotacaoRR(a->esq);
+    a = RotacaoLL(a);
+    return a;
+}
+
+Avl* RotacaoRL(Avl *a){
+    a->dir = RotacaoLL(a->dir);
+    a = RotacaoRR(a);
+    return a;
+}
+
+Avl* InsertAvl(Avl *a, Item v){
+
+    // Create the node of the AVL tree with value v
+    if(a == NULL){
+        Avl *Novo = (Avl*)malloc(sizeof(Avl));
+        Novo->Info = v;
+        Novo->Altura = 0;
+        Novo->esq = Novo->dir = NULL;
+        return Novo;
+    }
+
+    Avl *current = a;
+
+    if(v.id < a->Info.id){
+        a->esq = InsertAvl(a->esq, v);
+        if(AvlFactorBalance(a) > 1){
+            if(v.id < a->esq->Info.id)
+                a = RotacaoLL(a);
+            else
+                a = RotacaoLR(a);
+        }
+    }
+    else if(v.id > a->Info.id){
+        a->dir = InsertAvl(a->dir, v);
+        if(AvlFactorBalance(a) > 1){
+            if(v.id > a->dir->Info.id)
+                a = RotacaoRR(a);
+            else
+                a = RotacaoRL(a);
+        }
+    }
+    else{
+        printf("Valor duplicado!\n");
+        exit(1);
+    }
+
+    current->Altura = maior(alturaAvl(current->esq), alturaAvl(current->dir)) + 1;
+
+    return a;
+}
+
+void ShowAvl(Avl *a){
+    if(a == NULL) return;
+
+    printf("%d Altura %d\n", a->Info.id, a->Altura);
+    ShowAvl(a->esq);
+    ShowAvl(a->dir);
+}
 
 int string_to_int(char *number){
 
@@ -29,6 +136,26 @@ int string_to_int(char *number){
 }
 
 int main(){
+    
+    Avl* tree = NULL;
+
+    Item x = {50, "U00001", "Samsung", 5, 5000};
+    tree = InsertAvl(tree, x);
+
+    Item y = {45, "U00001", "Samsung", 5, 5000};
+    tree = InsertAvl(tree, y);
+
+    Item z = {60, "U00001", "Samsung", 5, 5000};
+    tree = InsertAvl(tree, z);
+
+    Item a = {35, "U00001", "Samsung", 5, 5000};
+    tree = InsertAvl(tree, a);
+
+    Item b = {25, "U00001", "Samsung", 5, 5000};
+    tree = InsertAvl(tree, b);
+
+    ShowAvl(tree);
+
     char Linha[1000], *p, *q;
     Item products[2000];
 
@@ -60,8 +187,8 @@ int main(){
         i++;
     }
 
-    for(i = 0; i < 1000; i++)
-        printf("%d - %s\n", products[i].id, products[i].product);
+    //for(i = 0; i < 1000; i++)
+        //printf("%d - %s\n", products[i].id, products[i].product);
 
     fclose(fp);
     return 0;
