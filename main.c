@@ -22,7 +22,7 @@ int main(){
     Avl* tree = NULL;
 
     char Linha[1000], *p, *q;
-    Item products[2000];
+    Item products[2001];
 
     FILE *fp = fopen("DIM_Shopping.csv", "r");
     if(fp == NULL){
@@ -33,7 +33,7 @@ int main(){
     // Remove the first line which contains just the name o each column
     fscanf(fp, " %[^\n]", Linha);
 
-    int i = 0, j;
+    int i = 1, j;
     while(fscanf(fp, " %[^\n]", Linha) != EOF){
         p = strtok(Linha, ";");
         j = 0;
@@ -52,8 +52,8 @@ int main(){
         i++;
     }
 
-    //for(i = 0; i < 2000; i++)
-        //tree = InsertAvl(tree, products[i]);
+    for(i = 0; i < 2000; i++)
+        tree = InsertAvl(tree, products[i]);
     
     fclose(fp);
     return 0;
