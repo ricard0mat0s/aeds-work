@@ -25,3 +25,4 @@ Avl* RotationRR(Avl *a);
 Avl* RotationLR(Avl *a);
 Avl* RotationRL(Avl *a);
 Avl* InsertAvl(Avl *a, Item v);
+Avl* SearchAvl(Avl *a, int v);

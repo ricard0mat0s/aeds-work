@@ -92,3 +92,14 @@ Avl* InsertAvl(Avl *a, Item v){
 
     return a;
 }
+
+Avl* SearchAvl(Avl *a, int v){
+    if(a == NULL) NULL;
+
+    if(v == a->Info.id)
+        return a;
+    else if(v > a->Info.id)
+        return SearchAvl(a->dir, v);
+    else
+        return SearchAvl(a->esq, v);
+}

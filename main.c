@@ -1,4 +1,7 @@
 #include "avl_tree.h"
+#include "time.h"
+
+#define N_PRODUCTS 2000
 
 int string_to_int(char *number){
 
@@ -18,11 +21,13 @@ int string_to_int(char *number){
 }
 
 int main(){
+
+    srand(time(NULL));
     
     Avl* tree = NULL;
 
     char Linha[1000], *p, *q;
-    Item products[2001];
+    Item products[N_PRODUCTS + 1];
 
     FILE *fp = fopen("DIM_Shopping.csv", "r");
     if(fp == NULL){
@@ -52,8 +57,20 @@ int main(){
         i++;
     }
 
-    for(i = 0; i < 2000; i++)
+    // Insert each produt into AVL Tree based in your id
+    for(i = 0; i < N_PRODUCTS; i++)
         tree = InsertAvl(tree, products[i]);
+
+    // Produce a random key to call the search
+    int random_key;
+    Avl* node = NULL;
+    for(i = 0; i < 100; i++) {
+        random_key = (rand() % N_PRODUCTS) + 1;
+        node = SearchAvl(tree, random_key);
+        printf("%d - %s\n", random_key, node->Info.product);
+    }
+
+    
     
     fclose(fp);
     return 0;
