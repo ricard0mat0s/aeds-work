@@ -6,7 +6,7 @@
 typedef struct Item{
     int id;
     char item_id[7];
-    char product[50];
+    char name[50];
     int quantity;
     int price;
 }Item;
