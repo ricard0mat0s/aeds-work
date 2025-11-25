@@ -34,7 +34,7 @@ Avl* RotationRR(Avl *a){
     a->dir = no->esq;
     no->esq = a;
 
-    a->Altura = greater(HeightAvl(a->esq), HeightAvl(a->dir));
+    a->Altura = greater(HeightAvl(a->esq), HeightAvl(a->dir)) + 1;
     no->Altura = greater(HeightAvl(no->dir), a->Altura) + 1;
 
     return no;
@@ -84,8 +84,8 @@ Avl* InsertAvl(Avl *a, Item v){
         }
     }
     else{
-        printf("Valor duplicado!\n");
-        exit(1);
+        /* Valor duplicado: não insere. Retorna o nó atual sem encerrar o programa. */
+        return a;
     }
 
     current->Altura = greater(HeightAvl(current->esq), HeightAvl(current->dir)) + 1;
@@ -94,11 +94,11 @@ Avl* InsertAvl(Avl *a, Item v){
 }
 
 Avl* SearchAvl(Avl *a, int v){
-    if(a == NULL) NULL;
+    if (a == NULL) return NULL;
 
-    if(v == a->Info.id)
+    if (v == a->Info.id)
         return a;
-    else if(v > a->Info.id)
+    else if (v > a->Info.id)
         return SearchAvl(a->dir, v);
     else
         return SearchAvl(a->esq, v);
