@@ -1,5 +1,6 @@
 #include "avl_tree.h"
 
+
 int greater(int x, int y){
     if(x > y) return x;
     else return y;
@@ -102,4 +103,16 @@ Avl* SearchAvl(Avl *a, int v){
         return SearchAvl(a->dir, v);
     else
         return SearchAvl(a->esq, v);
+}
+
+Avl* SearchAvlWithCount(Avl *a, int v, int *accesses){
+    if (a == NULL) return NULL;
+    if (accesses) (*accesses)++; // visited this node
+
+    if (v == a->Info.id)
+        return a;
+    else if (v > a->Info.id)
+        return SearchAvlWithCount(a->dir, v, accesses);
+    else
+        return SearchAvlWithCount(a->esq, v, accesses);
 }
