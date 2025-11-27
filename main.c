@@ -92,14 +92,19 @@ void BuscaId() {
         printf("Arvore vazia. Carregue o CSV primeiro.\n");
         return;
     }
+
     char buf[64];
+    
     printf("Digite o ID: ");
     if (!fgets(buf, sizeof(buf), stdin)) return;
+    
     int id = atoi(buf);
     int accesses = 0;
+    
     clock_t t0 = clock();
     Avl *node = SearchAvlWithCount(tree, id, &accesses);
     clock_t t1 = clock();
+    
     double elapsed_ms = (double)(t1 - t0) * 1000.0 / CLOCKS_PER_SEC;
 
     if (!node) printf("AVL: Nao encontrado.\n");
@@ -117,12 +122,15 @@ void BuscaSequencialBinaria(){
         return;
     }
     char buf[64];
+    
     printf("Digite o ID inicial: ");
     if (!fgets(buf, sizeof(buf), stdin)) return;
+    
     int start = atoi(buf);
     if (start < 1) start = 1;
 
     printf("Buscando 100 itens sequencialmente a partir do ID %d...\n", start);
+    
     clock_t t0 = clock();
     int found = 0;
     long long total_accesses = 0;
@@ -134,6 +142,7 @@ void BuscaSequencialBinaria(){
         else printf("%d - Nao encontrado\n", i);
     }
     clock_t t1 = clock();
+    
     double total_ms = (double)(t1 - t0) * 1000.0 / CLOCKS_PER_SEC;
     printf("Resultado: %d encontrados de 100. Tempo total (busca binaria): %.3f ms (%.3f ms por busca)\n",
            found, total_ms, total_ms / 100.0);
@@ -153,6 +162,7 @@ void BuscaSequencial() {
     if (start < 1) start = 1;
 
     printf("Buscando 100 itens sequencialmente a partir do ID %d...\n", start);
+    
     clock_t t0 = clock();
     int found = 0;
     long long total_accesses = 0;
@@ -164,6 +174,7 @@ void BuscaSequencial() {
         else printf("%d - Nao encontrado\n", i);
     }
     clock_t t1 = clock();
+    
     double total_ms = (double)(t1 - t0) * 1000.0 / CLOCKS_PER_SEC;
     printf("Resultado: %d encontrados de 100. Tempo total (AVL): %.3f ms (%.3f ms por busca)\n",
            found, total_ms, total_ms / 100.0);
@@ -176,6 +187,7 @@ void BuscaRandomBinaria(int n) {
         return;
     }
     srand((unsigned)time(NULL));
+    
     clock_t t0 = clock();
     int found = 0;
     long long total_accesses = 0;
@@ -188,7 +200,9 @@ void BuscaRandomBinaria(int n) {
         else printf("%d - Nao encontrado\n", key);
     }
     clock_t t1 = clock();
+    
     double total_ms = (double)(t1 - t0) * 1000.0 / CLOCKS_PER_SEC;
+    
     printf("Resultado: %d encontrados de %d. Tempo total (busca binaria): %.3f ms (%.3f ms por busca)\n",
            found, n, total_ms, total_ms / (double)n);
     printf("Acessos totais (vetor): %lld", total_accesses);
@@ -200,6 +214,7 @@ void BuscaRandom(int n) {
     return;
      }
     srand((unsigned)time(NULL));
+    
     clock_t t0 = clock();
     int found = 0;
     long long total_accesses = 0;
@@ -212,6 +227,7 @@ void BuscaRandom(int n) {
         else printf("%d - Nao encontrado\n", key);
     }
     clock_t t1 = clock();
+    
     double total_ms = (double)(t1 - t0) * 1000.0 / CLOCKS_PER_SEC;
     printf("Resultado: %d encontrados de %d. Tempo total (AVL): %.3f ms (%.3f ms por busca)\n",
            found, n, total_ms, total_ms / (double)n);
@@ -225,8 +241,8 @@ void menu_loop() {
         printf("1) Carregar CSV e construir AVL\n");
         printf("2) Buscar por ID (AVL)\n");
         printf("3) Buscar por ID (Binaria)\n");
-        printf("4) Buscasequencial AVL (100 itens)\n");
-        printf("5) Buscasequencial Binaria (100 itens)\n");
+        printf("4) Busca sequencial AVL (100 itens)\n");
+        printf("5) Busca sequencial Binaria (100 itens)\n");
         printf("6) Busca aleatoria (AVL)\n");
         printf("7) Busca aleatoria (Binaria)\n");
         printf("8) Sair\n");
