@@ -60,7 +60,7 @@ void CarregaCsv(const char *path) {
 
 void printItem(const Item *it) {
     if (!it) return;
-    printf("ID: %d\nProduto: %s\nQuantidade: %d\nPreco: %d\n", it->id, it->product, it->quantity, it->price);
+    printf("\nID: %d\nProduto: %s\nQuantidade: %d\nPreco: %d\n", it->id, it->product, it->quantity, it->price);
 }
 
 void BuscaIdBinaria(){
@@ -245,7 +245,8 @@ void menu_loop() {
         printf("5) Busca sequencial Binaria (100 itens)\n");
         printf("6) Busca aleatoria (AVL)\n");
         printf("7) Busca aleatoria (Binaria)\n");
-        printf("8) Sair\n");
+        printf("8) Printar AVL\n");
+        printf("9) Sair\n");
         printf("Escolha: ");
         if (!fgets(opt, sizeof(opt), stdin)) break;
         int o = atoi(opt);
@@ -257,7 +258,8 @@ void menu_loop() {
             case 5: BuscaSequencialBinaria(); break;
             case 6: BuscaRandom(100); break;
             case 7: BuscaRandomBinaria(100); break;
-            case 8: return;
+            case 8: ImprimirAvl(tree);break;    
+            case 9: return;
             default: printf("Opcao invalida.\n"); break;
         }
     }

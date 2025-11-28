@@ -116,3 +116,10 @@ Avl* SearchAvlWithCount(Avl *a, int v, int *accesses){
     else
         return SearchAvlWithCount(a->esq, v, accesses);
 }
+
+void ImprimirAvl(Avl *a){
+    if(a == NULL) return;
+    printf("%d\n", a->Info.id);
+    ImprimirAvl(a->esq);
+    ImprimirAvl(a->dir);
+}
